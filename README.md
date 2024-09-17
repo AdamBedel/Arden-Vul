@@ -1,0 +1,15 @@
+Character Creation Rules
+  - Roll 3d6, down the line
+  - All base-rules classes are allowed with the following changes. Other classes may be allowed and available from other sources if desired. 
+    - Magic-User: Starts with Detect Magic, 1 random spell, and 1 player chosen spell in their spellbook.
+    - Fighter: Gains an additional feature, Cleave. If they reduce a creature to 0HP in melee, may make an additional attack that turn.
+    - Thief: A thief who backstabs successfully does 12 + STR damage.
+  - Abiliy scores may not be adjusted, but Prime Requisite score does not grant an XP multiplier
+  - For attack values, we will use ascending armor class.
+  - You can choose to take the average value for hit points at first level only. All other levels hit points are rolled.
+  - Native Languages:
+    - There is no aligment language. Characters know Archontean, their background language, and additional languages based on intelligence.
+  - Background language:
+    - Characters will get a 1 language from their associated background. This can be either Elvish, Dwarvish, Halfing, or if human, Thorcin, Wiskin, Khumus.
+    - If Archontean, choose any 1 of the above. 
+    - Any of these languages, as well as Mithric, may be chosen as additional languages from intelligence. 
