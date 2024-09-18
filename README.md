@@ -1,7 +1,7 @@
 Character Creation Rules
   - Roll 3d6, down the line
   - All base-rules classes are allowed with the following changes. Other classes may be allowed and available from other sources if desired. 
-    - Magic-User: Starts with Detect Magic, 1 random spell, and 1 player chosen spell in their spellbook.
+    - Magic-User: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
     - Fighter: Gains an additional feature, Cleave. If they reduce a creature to 0HP in melee, may make an additional attack that turn.
     - Thief: A thief who backstabs successfully does 12 + STR damage.
   - Abiliy scores may not be adjusted, but Prime Requisite score does not grant an XP multiplier
