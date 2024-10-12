@@ -29,5 +29,5 @@
 
 **Other Rules**
   - For encumbrance rules, see revised character sheet.
-  - Magic-users, elves, and half-elves may add a spell to their spellbook upon leveling up and then training with an appropriate mentor.
+  - Magic-users, elves, and half-elves may add one spell to their spellbook upon leveling up and then training with an appropriate mentor.
   - Spell Scrolls- can be scribed from a spellbook or other scroll. Cost/ Time TBD
