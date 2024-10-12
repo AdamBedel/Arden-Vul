@@ -6,6 +6,7 @@
     - Elf: Starts with Read Magic and 1 player chosen spell in their spellbook.
     - Fighter: Gains an additional feature, Cleave. If they reduce a creature to 0HP in melee, may make an additional attack that turn.
     - Golbin: Listen at Doors (2 in 6) replaces Wolf Affinity.
+    - Illusionist: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
     - Magic-User: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
     - Thief: A thief who backstabs successfully does 12 + STR damage.
   - Abiliy scores may not be adjusted, but Prime Requisite score does not grant an XP multiplier
@@ -29,5 +30,5 @@
 
 **Other Rules**
   - For encumbrance rules, see revised character sheet.
-  - Magic-users, elves, and half-elves may add one spell to their spellbook upon leveling up and then training with an appropriate mentor.
+  - Magic-users, Illusionists, elves, and half-elves may add one spell to their spellbook upon leveling up and then training with an appropriate mentor.
   - Spell Scrolls- can be scribed from a spellbook or other scroll. Cost/ Time TBD
