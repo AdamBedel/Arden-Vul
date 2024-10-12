@@ -12,8 +12,8 @@ Character Creation Rules
   - For attack values, we will use ascending armor class.
   - You can choose to take the average value for hit points at first level only. All other levels hit points are rolled.
   - Native Languages:
-    - There is no aligment language. Characters know Archontean, their background language, and additional languages based on intelligence.
+    - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence.
   - Background language:
-    - Characters will get a 1 language from their associated background. This can be either Dwarvish, Elvish, Goblin, Halfing, or if human, Thorcin, Wiskin, Khumus.
+    - Background languages are: Dwarvish, Elvish, Goblin, Halfing, or if human, Thorcin, Wiskin, Khumus.
     - If Archontean, choose any 1 of the above. 
     - Any of these languages, as well as Mithric, may be chosen as additional languages from intelligence. 
