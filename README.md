@@ -16,7 +16,7 @@ Character Creation Rules
     - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence.
   - Background language:
     - Background languages are: Dwarvish, Elvish, Goblin, Halfing, or if human, Thorcin, Wiskin, Khumus.
-    - If Archontean, choose any 1 of the above. 
+    - Archonteans do not get a background langauge, but have knowledge of the empire and its history.
     - Any of these languages, as well as Mithric, may be chosen as additional languages from intelligence. 
 Combat Rules
   - Characters deal damage equal to their hit die, regardless of weapon type. (ie Fighters deal 1d8, Magic Users deal 1d4)
