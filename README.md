@@ -1,4 +1,4 @@
-Character Creation Rules
+**Character Creation Rules**
   - Roll 3d6, down the line
   - All base-rules classes are allowed with the following changes. Other classes allowed: Acolyte (cc1), Acrobat, Assassin, Beast-Master (cc3), Druid, Golbin (cc1), Half-Elf, Mage (cc1), Paladin, Ranger
     - Assassin: On a failed assasinate attempt, damage is 8 + STR
@@ -19,7 +19,7 @@ Character Creation Rules
     - Archonteans do not get a background langauge, but have knowledge of the empire and its history.
     - Any of these languages, as well as Mithric, may be chosen as additional languages from intelligence.
 
-Combat Rules
+**Combat Rules**
   - Characters deal damage equal to their hit die, regardless of weapon type. (ie Fighters deal 1d8, Magic Users deal 1d4)
   - This damage increases by 1 stage (ie 1d4 --> 1d6) when to-hit modifier increases.
       - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8 -> 3d8
