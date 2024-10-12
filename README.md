@@ -11,7 +11,7 @@ Character Creation Rules
     - Thief: A thief who backstabs successfully does 12 + STR damage.
   - Abiliy scores may not be adjusted, but Prime Requisite score does not grant an XP multiplier
   - For attack values, we will use ascending armor class.
-  - You can choose to take the average value for hit points at first level only. All other levels hit points are rolled.
+  - You can choose to take the average value (rounded up) for hit points at first level only. All other levels hit points are rolled.
   - Native Languages:
     - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence.
   - Background language:
