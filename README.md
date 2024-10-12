@@ -32,4 +32,4 @@
 **Other Rules**
   - For encumbrance rules, see revised character sheet.
   - Magic-users, Illusionists, elves, and half-elves may add one spell to their spellbook upon leveling up and then training with an appropriate mentor.
-  - Spell Scrolls- can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check. This can be attempted once per spell per level (or once per day if Mage). Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome.
+  - Spell Scrolls- can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level (or once per day if Mage). Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome.
