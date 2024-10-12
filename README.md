@@ -14,6 +14,6 @@ Character Creation Rules
   - Native Languages:
     - There is no aligment language. Characters know Archontean, their background language, and additional languages based on intelligence.
   - Background language:
-    - Characters will get a 1 language from their associated background. This can be either Elvish, Dwarvish, Halfing, or if human, Thorcin, Wiskin, Khumus.
+    - Characters will get a 1 language from their associated background. This can be either Dwarvish, Elvish, Goblin, Halfing, or if human, Thorcin, Wiskin, Khumus.
     - If Archontean, choose any 1 of the above. 
     - Any of these languages, as well as Mithric, may be chosen as additional languages from intelligence. 
