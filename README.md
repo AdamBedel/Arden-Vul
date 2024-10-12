@@ -1,6 +1,7 @@
 **Character Creation Rules**
   - Roll 3d6, down the line
-  - All base-rules classes are allowed with the following changes. Other classes allowed: Acolyte (cc1), Acrobat, Assassin, Beast-Master (cc3), Druid, Golbin (cc1), Half-Elf, Illusionist, Mage (cc1), Ranger
+  - All base-rules classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief). Other classes allowed: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Beast-Master (cc3), Druid (Adv), Golbin (cc1), Half-Elf (Adv), Illusionist (Adv), Mage (cc1), Ranger (Adv)
+  - Class Changes:
     - Acrobat: Tumbling Attack damage is 8 + STR
     - Assassin: On a failed Assasinate attempt, damage is 8 + STR
     - Beast Master: Establishing a connection can only be attempted once per day. Speak with Animals' 2nd Level feature (only) is removed.
