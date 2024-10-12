@@ -1,8 +1,11 @@
 Character Creation Rules
   - Roll 3d6, down the line
-  - All base-rules classes are allowed with the following changes. Other classes may be allowed and available from other sources if desired. 
-    - Magic-User: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
+  - All base-rules classes are allowed with the following changes. Other classes allowed: Acolyte (cc1), Acrobat, Assassin, Beast-Master (cc3), Druid, Golbin (cc1), Half-Elf, Mage (cc1), Ranger
+    - Beast Master: Establishing a connection can be attempted once per day per beast. Speak with Animals 2nd Level feature (only) is removed.
+    - Elf: Stars with Read Magic and 1 player chosen spell in their spellbook.
     - Fighter: Gains an additional feature, Cleave. If they reduce a creature to 0HP in melee, may make an additional attack that turn.
+    - Golbin: Listen at Doors (2 in 6) replaces Wolf Affinity.
+    - Magic-User: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
     - Thief: A thief who backstabs successfully does 12 + STR damage.
   - Abiliy scores may not be adjusted, but Prime Requisite score does not grant an XP multiplier
   - For attack values, we will use ascending armor class.
