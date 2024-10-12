@@ -22,5 +22,5 @@
 **Combat Rules**
   - Characters deal damage equal to their hit die, regardless of weapon type. (ie Fighters deal 1d8, Magic Users deal 1d4)
   - This damage increases by 1 stage (ie 1d4 --> 1d6) when to-hit modifier increases.
-      - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8 -> 3d8
+      - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8 -> 2d12
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
