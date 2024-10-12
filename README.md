@@ -1,6 +1,6 @@
 **Character Creation Rules**
   - Roll 3d6, down the line
-  - All base-rules classes are allowed with the following changes. Other classes allowed: Acolyte (cc1), Acrobat, Assassin, Beast-Master (cc3), Druid, Golbin (cc1), Half-Elf, Mage (cc1), Paladin, Ranger
+  - All base-rules classes are allowed with the following changes. Other classes allowed: Acolyte (cc1), Acrobat, Assassin, Beast-Master (cc3), Druid, Golbin (cc1), Half-Elf, Illusionist, Mage (cc1), Paladin, Ranger
     - Assassin: On a failed assasinate attempt, damage is 8 + STR
     - Beast Master: Establishing a connection can only be attempted once per day. Speak with Animals' 2nd Level feature (only) is removed.
     - Elf: Starts with Read Magic and 1 player chosen spell in their spellbook.
