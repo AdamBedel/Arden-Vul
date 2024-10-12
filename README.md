@@ -28,9 +28,8 @@
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
   - Attacking with two weapons (or with a two-handed sword) grants a single attack with advantage.
   - Shields - can be sundered to completely negate the damage of a single attack. Magical shields can do this a number of times equal to their AC bonus.
-  - Spell Scrolls - can be cast or scribed by an appropriate caster regardless of caster level.
 
 **Other Rules**
   - For encumbrance rules, see revised character sheet.
   - Magic-users, Illusionists, elves, and half-elves may add one spell to their spellbook upon leveling up and then training with an appropriate mentor.
-  - Spell Scrolls- can be scribed from a spellbook or other scroll. Scribing a spell to/from a spellbook or scroll takes 8 hours and requires an INT check.
+  - Spell Scrolls- can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check. This can be attempted once per spell per level. Scribing from a scroll destroys it regardless of the outcome.
