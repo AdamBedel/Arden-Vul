@@ -28,7 +28,7 @@
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
   - Attacking with two weapons (or with a two-handed sword) grants a single attack with advantage.
   - Shields - can be sundered to completely negate the damage of a single attack. Magical shields can do this a number of times equal to their AC bonus.
-  - Spell Scrolls - can be cast by an appropriate caster regardless of caster level.
+  - Spell Scrolls - can be cast or scribed by an appropriate caster regardless of caster level.
 
 **Other Rules**
   - For encumbrance rules, see revised character sheet.
