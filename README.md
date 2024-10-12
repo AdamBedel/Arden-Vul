@@ -12,11 +12,11 @@
   - Abiliy scores may not be adjusted, but Prime Requisite score does not grant an XP multiplier
   - For attack values, we will use ascending armor class.
   - You can choose to take the average value (rounded up) for hit points at first level only. All other levels hit points are rolled.
-  - Native Languages:
+  - Languages:
     - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence.
   - Background language:
     - Background languages are: Dwarvish, Elvish, Goblin, Halfing, or if human, Thorcin, Wiskin, Khumus.
-    - Archonteans do not get a background langauge, but have knowledge of the empire and its history.
+    - Archonteans: no background langauge, but have knowledge of the empire and its history.
     - Any of these languages, as well as Mithric, may be chosen as additional languages from intelligence.
 
 **Combat Rules**
