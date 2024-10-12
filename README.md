@@ -17,7 +17,7 @@ Character Creation Rules
   - Background language:
     - Background languages are: Dwarvish, Elvish, Goblin, Halfing, or if human, Thorcin, Wiskin, Khumus.
     - Archonteans do not get a background langauge, but have knowledge of the empire and its history.
-    - Any of these languages, as well as Mithric, may be chosen as additional languages from intelligence. 
+    - Any of these languages, as well as Mithric, may be chosen as additional languages from intelligence. \
 Combat Rules
   - Characters deal damage equal to their hit die, regardless of weapon type. (ie Fighters deal 1d8, Magic Users deal 1d4)
   - This damage increases by 1 stage (ie 1d4 --> 1d6) when to-hit modifier increases.
