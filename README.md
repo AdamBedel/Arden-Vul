@@ -11,7 +11,7 @@
     - Illusionist: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
     - Magic-User: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
     - Thief: A thief who Backstabs successfully does 12 + STR damage.
-  - Abiliy scores may not be adjusted, but Prime Requisite score does not grant an XP multiplier
+  - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
   - For attack values, we will use ascending armor class.
   - You can choose to take the average value (rounded up) for hit points at first level only. All other levels hit points are rolled.
   - Languages:
