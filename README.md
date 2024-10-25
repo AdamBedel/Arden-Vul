@@ -30,12 +30,11 @@
   - Shields- can be sundered to completely negate the damage of a single attack. Magical shields can do this a number of times equal to their AC bonus.
 
 **Other Rules**
-  - For encumbrance rules, see revised character sheet.
+  - For full encumbrance rules, see cc2. TLDR:
       - One-handed items = 1 slot
       - Two-handed items = 2 slots
       - 3 torches or 3 rations = 1 slot
       - Light/Med/Heavy Armor = 1/2/3 slots packed, or 1/2/2 slots equipped
       - Ammo pouches + quiver = 0 slots (already accounted for with ranged weapons)
-      - Sacks: May extend inventory space when held. 
   - Normal Humans: 1 + CON HP, and deal 1d2 + STR damage with weapons. Level up at 10 XP.
   - Spell Scrolls- can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level (or once per day if Acolyte/Mage). Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome.
