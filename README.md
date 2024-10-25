@@ -33,7 +33,7 @@
   - For full encumbrance rules, see cc2. TLDR:
       - One-handed items = 1 slot
       - Two-handed items = 2 slots
-      - 3 torches or 3 rations = 1 slot
+      - 3 torches, 3 oil flasks, or 3 rations = 1 slot
       - Light/Med/Heavy Armor = 1/2/3 slots packed, or 1/2/2 slots equipped
       - Ammo pouches + quiver = 0 slots (already accounted for with ranged weapons)
   - Normal Humans: 1 + CON HP, and deal 1d2 + STR damage with weapons. Level up at 10 XP.
