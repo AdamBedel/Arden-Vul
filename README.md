@@ -1,6 +1,6 @@
 **Character Creation Rules**
   - Roll 3d6, down the line
-  - All classic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following additional classes: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Beast-Master (cc3), Druid (Adv), Goblin (cc1), Half-Elf (Adv), Illusionist (Adv), Mage (cc1), Ranger (Adv)
+  - All classic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following additional classes: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Barbarian (Adv), Beast-Master (cc3), Druid (Adv), Goblin (cc1), Half-Elf (Adv), Illusionist (Adv), Mage (cc1), Ranger (Adv)
   - Class Changes:
     - Acrobat: Tumbling Attack damage is 8 + STR
     - Assassin: On a failed Assasinate attempt, damage is 8 + STR
