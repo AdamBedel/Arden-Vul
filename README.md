@@ -1,6 +1,6 @@
 **Character Creation Rules**
   - Roll 3d6, down the line
-  - All classic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following additional classes: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Barbarian (Adv), Beast-Master (cc3), Druid (Adv), Goblin (cc1), Half-Elf (Adv), Illusionist (Adv), Mage (cc1), Ranger (Adv)
+  - All classic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following additional classes: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Barbarian (Adv), Beast-Master (cc3), Druid (Adv), Goblin (cc1), Half-Elf (Adv), Mage (cc1), Ranger (Adv)
   - Class Changes:
     - Acrobat: Tumbling Attack damage is 8 + STR
     - Assassin: On a failed Assasinate attempt, damage is 8 + STR
@@ -8,8 +8,7 @@
     - Elf: Starts with Read Magic and 1 player chosen spell in their spellbook.
     - Fighter: Gains an additional feature, Cleave. If they reduce a creature to 0HP in melee, may make an additional attack that turn.
     - Golbin: Listen at Doors (2 in 6) replaces Wolf Affinity.
-    - Illusionist: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
-    - Magic-User: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
+    - Magic-User: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook. Also may cast any Illusionist spells as if they were Magic-User spells.
     - Thief: A thief who Backstabs successfully does 12 + STR damage.
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
   - For attack values, we will use ascending armor class.
