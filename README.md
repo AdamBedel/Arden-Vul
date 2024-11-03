@@ -21,7 +21,7 @@
 **Combat Rules**
   - PCs deal damage equal to their hit die, regardless of weapon type. The only exception is Acrobat/Assassin/Thief, which start at a d6. 
   - Character damage increases by 1 stage when class to-hit modifier increases.
-      - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8
+      - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8 -> 2d12
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
   - Dual-wielding melee weapons (or using a two-handed sword) grants a single attack with advantage.
   - Shields- can be sundered to completely negate the damage of a single attack. Magical shields can do this a number of times equal to their AC bonus.
