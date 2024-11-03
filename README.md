@@ -4,10 +4,10 @@
   - Class Changes:
     - Acrobat / Assassin / Thief: Deal max damage on special attacks, and start at a d6 damage die (not hit die though)
     - Clerics: List of gods on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
-    - Elf: Starts with Read Magic and 1 player chosen spell in their spellbook.
+    - Elf: Starts with Read Magic and 1 player-chosen spell in their spellbook.
     - Fighter: Gains an additional feature, Cleave. If they reduce a creature to 0HP in melee, may make an additional attack that turn.
     - Golbin: Listen at Doors (2 in 6) replaces Wolf Affinity.
-    - Magic-User: Starts with Read Magic, 1 random spell, and 1 player chosen spell in their spellbook.
+    - Magic-User: Starts with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook.
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
   - For attack and AC values, we will use ascending armor class. (numbers in brackets in OSE rules)
   - 1st level PCs may take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
