@@ -18,7 +18,7 @@
     - Any of these languages, as well as Mithric (dead language), may be chosen as additional languages from intelligence.
 
 **Combat Rules**
-  - PCs deal damage equal to their hit die, regardless of weapon type. The only exception is Acrobat/Assassin/Thief, which start as a d6. 
+  - PCs deal damage equal to their hit die, regardless of weapon type. The only exception is Acrobat/Assassin/Thief, which start at a d6. 
   - Character damage increases by 1 stage when class to-hit modifier increases.
       - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8 -> 3d8
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
