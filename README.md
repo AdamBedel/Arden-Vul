@@ -1,6 +1,6 @@
 **Character Creation Rules**
   - Roll 3d6, down the line
-  - All classic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following Advanced classes: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Barbarian (Adv), Druid (Adv), Goblin (cc1), Half-Elf (Adv), Mage (cc1), Ranger (Adv)
+  - All classic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Barbarian (Adv), Druid (Adv), Goblin (cc1), Half-Elf (Adv), Mage (cc1), Ranger (Adv)
   - Class Changes:
     - Acrobat / Assassin / Thief: Deal max damage on special attacks, and start at a d6 damage die (not hit die though)
     - Clerics: List of gods on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
