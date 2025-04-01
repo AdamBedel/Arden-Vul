@@ -26,7 +26,7 @@
   - Dual-wielding melee weapons (or using a two-handed sword) grants a single attack with advantage.
 
 **Other Rules**
-  - Encumbrance Rules, see cc2. TLDR:
+  - Slot-Based Encumbrance Rules, see cc2. TLDR:
       - One-handed items = 1 slot
       - Two-handed items, ranged weapons = 2 slots
       - 3 torches, 3 oil flasks, or 3 rations = 1 slot
