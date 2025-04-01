@@ -10,7 +10,7 @@
     - Magic-User: Starts with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook.
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
   - For attack and AC values, we will use ascending armor class. (numbers in brackets in OSE rules)
-  - 1st level PCs may take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
+  - Hut points must be rolled, except as 1st level where PCs must take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
   - Languages:
     - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence.
   - Background language:
