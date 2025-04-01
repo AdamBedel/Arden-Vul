@@ -1,9 +1,8 @@
 **Character Creation Rules**
   - Roll 3d6, down the line
-  - All classic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Barbarian (Adv), Beast Master (cc3), Druid (Adv), Goblin (cc1), Half-Elf (Adv), Mage (cc1), Ranger (Adv)
+  - All classic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Acolyte (cc1), Acrobat (Adv), Assassin (Adv), Barbarian (Adv), Druid (Adv), Goblin (cc1), Half-Elf (Adv), Mage (cc1), Ranger (Adv)
   - Class Changes:
     - Acrobat / Assassin / Thief: Start at a d6 damage die (not hit die though)
-    - Beast Master: Establishing a Connection may be atempted once per animal per day. Speak with Animals' 2nd level feature (only) removed.
     - Clerics: List of gods on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - Elf: Starts with Read Magic and 1 player-chosen spell in their spellbook.
     - Fighter: Gains an additional feature, Cleave. If they reduce a creature to 0HP in melee, may make an additional attack that turn.
