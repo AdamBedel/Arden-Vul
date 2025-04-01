@@ -24,7 +24,6 @@
       - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
   - Dual-wielding melee weapons (or using a two-handed sword) grants a single attack with advantage.
-  - Shields- can be sundered to completely negate the damage of a single attack. Magical shields can do this a number of times equal to their AC bonus.
 
 **Other Rules**
   - Encumbrance Rules, see cc2. TLDR:
