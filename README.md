@@ -1,7 +1,7 @@
 # House Rules
 ## Character Creation Rules
   - Roll 3d6, down the line
-  - All basic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Acolyte (cc1), Druid (adv), Goblin (cc1), Mage (cc1), and Ranger (adv). Ask if you want an exception. **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
+  - All basic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Acolyte (cc1), Druid (adv), Goblin (cc1), and Mage (cc1). Ask if you want an exception. **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
     - Cleric: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - Dwarf: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
