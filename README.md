@@ -3,7 +3,7 @@
   - Roll 3d6, down the line
   - All basic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Acolyte (cc1), Beast Master (cc3), Druid (adv), Goblin (cc1), and Mage (cc1). Ask if you want an exception. **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
-    - Beast Master: *Speak with Animals* loses it's 2nd and 4th level effects, and animal compainions acting as followers count against max retainer limit. 
+    - Beast Master: *Speak with Animals* loses it's 2nd level effect.
     - Cleric: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - Dwarf: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - Elf: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability.
