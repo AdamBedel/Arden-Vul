@@ -28,7 +28,7 @@
   - Shields may be sundered as a reaction to reduce incoming damage from a single attack by 1d12. Magic shields have their modifier-in-4 chance to survive unscathed, otherwise losing -1 from their modifier. 
 
 ## Other Rules
-  - Slot-Based Encumbrance Rules, see cc2. TLDR:
+  - Slot-Based Encumbrance Rules (cc2) TLDR:
       - One-handed items, shields = 1 slot
       - Two-handed items, ranged weapons = 2 slots
       - 3 torches, 3 oil flasks, or 3 rations = 1 slot
