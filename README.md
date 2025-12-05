@@ -13,14 +13,13 @@
   - For attack and AC values, we will use ascending armor class. (numbers in brackets in OSE rules)
   - Hit points must be rolled, except as 1st level where PCs **must** take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
   - Languages:
-    - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence.
-  - Background language:
-    - Background languages are: Dwarvish, Elvish, Halfing, or if human, Thorcin, Wiskin, Khumus.
-    - Archonteans + Goblins: No background langauge, but have knowledge of the empire and its history.
-    - Any of these languages, as well as Mithric (dead language), may be chosen as additional languages from intelligence.
+    - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence. The available background langauges are:
+      - Dwarvish, Elvish, Halfing, or if human, Thorcin, Wiskin, Khumus.
+      - Archonteans + Goblins: No background langauge, but have knowledge of the empire and its history.
+      - Any of these languages, as well as *Mithric* (dead language), may be chosen as additional languages from intelligence.
 
 ## Combat Rules
-  - PCs deal damage equal to their hit die, regardless of weapon type.
+  - PCs deal damage equal to their hit die with weapons, regardless of the weapon type (modified by STR for melee weapons).
   - Character damage increases by 1 stage when class to-hit modifier increases.
       - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
