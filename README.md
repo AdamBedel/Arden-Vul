@@ -7,7 +7,7 @@
     - Dwarf: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - Elf: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability.
     - Fighter: Gain the additional *Combat Talents* (cc1) optional ability
-    - Goblin: *Listen at Doors* (2 in 6) replaces *Wolf Affinity*
+    - Goblin: *Listen at Doors* (2 in 6) replaces *Wolf Affinity* and *Detect Construction Tricks*
     - Magic-User: Starts with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook
     - Thief: Use a d6 hit die
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
