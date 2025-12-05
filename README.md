@@ -1,3 +1,4 @@
+## House Rules
 **Character Creation Rules**
   - Roll 3d6, down the line
   - All basic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Druid (Adv), Goblin (cc1), Mage (cc1), and Ranger (Adv). Ask if you want an exception. **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
