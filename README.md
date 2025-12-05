@@ -1,5 +1,5 @@
-## House Rules
-**Character Creation Rules**
+# House Rules
+## Character Creation Rules
   - Roll 3d6, down the line
   - All basic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Druid (Adv), Goblin (cc1), Mage (cc1), and Ranger (Adv). Ask if you want an exception. **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
@@ -19,14 +19,14 @@
     - Archonteans + Goblins: No background langauge, but have knowledge of the empire and its history.
     - Any of these languages, as well as Mithric (dead language), may be chosen as additional languages from intelligence.
 
-**Combat Rules**
+## Combat Rules
   - PCs deal damage equal to their hit die, regardless of weapon type.
   - Character damage increases by 1 stage when class to-hit modifier increases.
       - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
   - Dual-wielding melee weapons or using a two-handed sword grants a single attack with advantage.
 
-**Other Rules**
+## Other Rules
   - Slot-Based Encumbrance Rules, see cc2. TLDR:
       - One-handed items = 1 slot
       - Two-handed items, ranged weapons = 2 slots
