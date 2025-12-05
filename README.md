@@ -29,7 +29,7 @@
 
 ## Other Rules
   - Slot-Based Encumbrance Rules, see cc2. TLDR:
-      - One-handed items = 1 slot
+      - One-handed items, shields = 1 slot
       - Two-handed items, ranged weapons = 2 slots
       - 3 torches, 3 oil flasks, or 3 rations = 1 slot
       - Light/Med/Heavy Armor = 1/2/3 slots packed, or 1/2/2 slots equipped
