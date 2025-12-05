@@ -1,7 +1,7 @@
 # House Rules
 ## Character Creation Rules
   - Roll 3d6, down the line
-  - All basic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Druid (adv), Goblin (cc1), Mage (cc1), and Ranger (adv). Ask if you want an exception. **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
+  - All basic classes are allowed (Cleric, Dwarf, Elf, Fighter, Halfing, Magic-User, Thief) as well as the following advanced classes: Acolyte (cc1), Druid (adv), Goblin (cc1), Mage (cc1), and Ranger (adv). Ask if you want an exception. **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
     - Cleric: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - Dwarf: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
@@ -11,7 +11,7 @@
     - Magic-User: Starts with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook
     - Thief: Use a d6 hit die
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
-  - For attack and AC values, we will use ascending armor class. (numbers in brackets in OSE rules)
+  - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules).
   - Hit points must be rolled, except as 1st level where PCs **must** take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
   - Languages:
     - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence. The available background langauges are:
@@ -36,5 +36,5 @@
       - Ammo pouches + quiver = 0 slots (already accounted for with ranged weapons)
   - Normal Humans: 2 + CON HP, and deal 1d2 + STR damage with weapons. -1 to hit with all weapons. Level up at 100 XP.
   - All Illusionist (adv) spells are added to the magic-user spell list.
-  - Spell Scrolls: can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level (or once per day if an Acolyte). Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome, and can only be attempted if it could be cast by the scriber. 
+  - Spell Scrolls: can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level (or once per day if an Acolyte / Mage). Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome, and can only be attempted if it could be cast by the scriber. 
   - Armor is renamed: chain -> lamellar, plate -> lorica segmentata
