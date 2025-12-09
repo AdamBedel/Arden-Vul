@@ -21,8 +21,10 @@
 
 ## Combat Rules
   - PCs deal damage equal to their hit die with weapons, regardless of the weapon type (modified by STR for melee weapons).
-  - Character damage increases by 1 stage when class to-hit modifier increases.
-      - Progression is: 1d4 -> 1d6 -> 1d8 -> 1d12 -> 2d8
+  - Character damage increases when class to-hit modifier increases (every 3-5 levels depending on class).
+      - First increase: 1d4 -> 1d6 -> 1d8 -> 1d12
+      - Second increase: 1d6 -> 2d4, 1d8 -> 2d6, 1d12 -> 2d8
+      - Third increase: 2d4 -> 3d4, 2d6 -> 3d6, 2d8 -> 3d8
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
   - Dual-wielding melee weapons or using a two-handed sword grants a single attack with advantage.
   - Shields may be sundered as a reaction to reduce incoming damage from a single attack by 1d12. Magic shields have their modifier-in-4 chance to survive unscathed, otherwise losing -1 from their modifier. 
