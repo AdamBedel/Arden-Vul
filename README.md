@@ -5,10 +5,10 @@
   - Class Changes:
     - Cleric: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - Dwarf: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
-    - Elf: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability.
+    - Elf: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability.
     - Fighter: Gain the additional *Combat Talents* (cc1) optional ability
     - Goblin: *Listen at Doors* (2 in 6) replaces *Wolf Affinity* and *Detect Construction Tricks*
-    - Magic-User: Starts with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook
+    - Magic-User: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook (magic-users may choose illusionist or necromancer spells at 1st level)
     - Thief: Use a d6 hit die
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
   - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules).
