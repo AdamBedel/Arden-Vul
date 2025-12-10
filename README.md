@@ -1,15 +1,15 @@
 # House Rules
 ## Character Creation Rules
   - Roll 3d6, down the line
-  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as these additional classes: Druid (adv), Goblin (cc1). The resourceless-analogs to Magic-User, Cleric, and Druid may also be used, these being: Mage (cc1), Acolyte (cc1), Shaman (custom). **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
+  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as these additional classes: _Druid_ (adv), _Goblin_ (cc1). The resourceless-analogs to _Magic-User_, _Cleric_, and _Druid_ may also be used, these being: _Mage_ (cc1), _Acolyte_ (cc1), _Shaman_ (custom). **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
-    - Cleric: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
-    - Dwarf: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
-    - Elf: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability.
-    - Fighter: Gain the additional *Combat Talents* (cc1) optional ability
-    - Goblin: *Listen at Doors* (2 in 6) replaces *Wolf Affinity* and *Detect Construction Tricks*
-    - Magic-User: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook (magic-users may choose illusionist or necromancer spells at 1st level)
-    - Thief: Use a d6 hit die
+    - _Cleric_: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
+    - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
+    - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability.
+    - _Fighter_: Gain the additional *Combat Talents* (cc1) optional ability
+    - _Goblin_: *Listen at Doors* (2 in 6) replaces *Wolf Affinity* and *Detect Construction Tricks*
+    - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook (magic-users may choose illusionist or necromancer spells at 1st level)
+    - _Thief_: Use a d6 hit die
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
   - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules).
   - Hit points must be rolled, except as 1st level where PCs **must** take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
@@ -17,7 +17,7 @@
     - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence. The available background langauges are:
       - Dwarvish, Elvish, Halfing, or if human, Thorcin, Wiskin, Khumus.
       - Archonteans + Goblins: No background langauge, but have knowledge of the empire and its history.
-      - Any of these languages, as well as *Mithric* (dead language), may be chosen as additional languages from intelligence.
+      - Any of these languages, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence.
 
 ## Combat Rules
   - PCs deal damage equal to their hit die with weapons, regardless of the weapon type (modified by STR for melee weapons).
