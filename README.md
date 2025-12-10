@@ -28,7 +28,8 @@
       - d8 hit die: 1d8 -> 1d12 -> 2d8
   - Two-handed polearms (only) may be used to attack from behind an ally (from the 2nd rank).
   - Dual-wielding melee weapons or using a two-handed sword grants a single attack with advantage.
-  - Shields may be sundered as a reaction to reduce incoming damage from a single attack by 1d12. Magic shields have their modifier-in-4 chance to survive unscathed, otherwise losing -1 from their modifier. 
+  - Shields may be sundered as a reaction to negate all incoming damage from a single attack. Magic shields have their modifier-in-4 chance to survive unscathed, otherwise losing -1 from their modifier.
+  - The Slow weapon property is ignored.
 
 ## Other Rules
   - Slot-Based Encumbrance Rules (cc2) TLDR:
@@ -38,6 +39,6 @@
       - Light/Med/Heavy Armor = 1/2/3 slots packed, or 1/2/2 slots equipped
       - Ammo pouches + quiver = 0 slots (already accounted for with ranged weapons)
   - Normal Humans: 2 + CON HP, and deal 1d2 + STR damage with weapons. -1 to hit with all weapons. Level up at 100 XP.
-  - All Illusionist (adv) spells are added to the magic-user spell list.
+  - All Illusionist (adv) and Necromancer (nec) spells are added to the magic-user spell list.
   - Spell Scrolls: can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level (or once per day if an Acolyte / Mage). Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome, and can only be attempted if it could be cast by the scriber. 
   - Armor is renamed: chain -> lamellar, plate -> lorica segmentata
