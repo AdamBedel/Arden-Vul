@@ -1,17 +1,18 @@
 # House Rules
 ## Character Creation Rules
   - Roll 3d6, down the line
-  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as these additional classes: _Druid_ (adv), _Goblin_ (cc1).
+  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as these additional classes: _Druid_ (adv), _Half-Elf_, and _Goblin_ (cc1).
     - Uncommon variants of the _Magic-User_, _Cleric_, and _Druid_ may also be used if desired, those being: _Mage_ (cc1), _Acolyte_ (cc1), and _Shaman_ (home-brew).
     - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
     - _Acolyte_: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - _Cleric_: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
-    - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability.
+    - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Gain the additional *Combat Talents* (cc1) optional ability
     - _Goblin_: *Listen at Doors* (2 in 6) replaces *Wolf Affinity* and *Detect Construction Tricks*
-    - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook (magic-users may choose illusionist or necromancer spells at 1st level)
+    - _Half-Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
+    - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
     - _Thief_: Use a d6 hit die
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
   - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules).
