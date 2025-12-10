@@ -2,7 +2,7 @@
 ## Character Creation Rules
   - Roll 3d6, down the line
   - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as these additional classes: _Druid_ (adv), _Half-Elf_, and _Goblin_ (cc1).
-    - Uncommon spellcaster variants may also be permitted, those being: _Mage_ (cc1), _Acolyte_ (cc1), and _Shaman_ (home-brew).
+    - Uncommon spellcaster variants may also be permitted, those being: _Mage_ (cc1), _Acolyte_ (cc1), and _Shaman_ (home-brew). These are the only spellcasting classes that PCs can train their retainers to be.
     - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
     - _Acolyte_: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
