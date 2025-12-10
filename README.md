@@ -18,9 +18,9 @@
   - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules).
   - Hit points must be rolled, except as 1st level where PCs **must** take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
   - Languages:
-    - There is no aligment language. Characters know Archontean, one background language, and additional languages based on intelligence. The available background langauges are:
-      - Dwarvish, Elvish, Halfing, or if human, Thorcin, Wiskin, Khumus.
-      - Archonteans + Goblins: No background langauge, but have knowledge of the empire and its history.
+    - There is no aligment language. Characters know Archontean, one background language (depending on class), and additional languages based on intelligence. The background langauges are:
+      - Dwarvish, Elvish, and Halfing. Or for humans: Thorcin, Wiskin, and Khumus.
+      - Archonteans and Goblins: No background langauge, but have knowledge of the empire and its history.
       - Any of these languages, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence.
 
 ## Combat Rules
