@@ -21,11 +21,6 @@
     - Archonteans and Goblins: No background langauge, but have knowledge of the empire and its history
     - Any language above, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence
 
-Class Summary:
-- Cleric types: Cleric, Bard, Druid
-- Fighter types: Fighter, Dwarf, Halfling
-- Magic-User types: Magic-user, Elf, Goblin
-- Thief types: Thief, Assassin
 
 ## Combat Rules
   - PCs deal damage equal to their hit die with weapons, regardless of the weapon type (modified by STR for melee weapons)
@@ -37,6 +32,7 @@ Class Summary:
   - Dual-wielding melee weapons or using a two-handed sword grants a single attack with advantage
   - Shields may be sundered as a reaction to negate all incoming damage from a single attack. Magic shields have their modifier-in-4 chance to survive unscathed, otherwise losing -1 from their modifier.
   - Slow weapon property is ignored
+
 
 ## Other Rules
   - Slot-Based Encumbrance as described in Carcass Crawler 2 (cc2.pdf) TLDR:
