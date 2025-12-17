@@ -1,18 +1,17 @@
 # House Rules
 ## Character Creation Rules
   - Roll 3d6, down the line
-  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as these additional classes: _Assassin_ (adv), _Druid_ (adv), and _Goblin_ (cc1).
+  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as these additional classes: _Assassin_ (adv), _Bard_ (adv), _Druid_ (adv), and _Goblin_ (adv).
     - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
     - _Cleric_: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
-    - _Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
+    - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Gain the additional *Combat Talents* (cc1) optional ability
-    - _Goblin_: *Listen at Doors* (2 in 6) replaces *Detect Construction Tricks*
-      - OR May use the _Gnome_ (adv) statblock reflavored as a goblin instead. In that case, lose *Detect Construction Tricks* and *Speak with Borrowing Mammals* but gain *Wolf Affinity*
+    - _Goblin_: Use the _Gnome_ (adv) statblock. Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Construction Tricks* and *Speak with Borrowing Mammals*.
     - _Half-Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
-    - _Magic-User_: Starts with Read Magic, 1 random spells, and 1 player-chosen spell in their spellbook
+    - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
     - _Thief_: Use a d6 hit die
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
   - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules).
@@ -22,6 +21,12 @@
       - Dwarvish, Elvish, and Halfing. Or for humans: Thorcin, Wiskin, and Khumus.
       - Archonteans and Goblins: No background langauge, but have knowledge of the empire and its history.
       - Any of these languages, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence.
+
+Summary:
+- Cleric types: Cleric, Bard, Druid
+- Fighter types: Fighter, Dwarf, Halfling
+- Magic-User types: Magic-user, Elf, Goblin
+- Thief types: Thief, Assassin
 
 ## Combat Rules
   - PCs deal damage equal to their hit die with weapons, regardless of the weapon type (modified by STR for melee weapons).
