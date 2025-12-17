@@ -17,8 +17,8 @@
   - Hit points must be rolled, except as 1st level where PCs **must** take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
   - Languages:
     - There is no aligment language. All characters know Archontean, this is "Common" in Arden Vul
-    - Background langauges: Dwarvish, Elvish, Halfing, Thorcin (Human), Wiskin (Human), and Khumus (Human)
-    - Archonteans and Goblins: No background langauge, but have knowledge of the empire and its history
+    - Some backgrounds grant an additional langauge: Dwarvish, Elvish, Halfing, Thorcin (Human), Wiskin (Human), and Khumus (Human)
+    - Archonteans (Human) and Goblins: No background langauge, but have knowledge of the empire and its history
     - Any language above, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence
 
 
