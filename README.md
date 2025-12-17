@@ -8,7 +8,7 @@
     - _Cleric_: List of gods is on pages 6-9 of file "Gods and People of Magea" in the Advanced Rules folder
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
-    - _Fighter_: Gain the additional *Combat Talents* (cc1) optional ability
+    - _Fighter_: Gain a new ability, *Combat Talents* as described in Carcass Crawler 1. (cc1.pdf)
     - _Goblin_: Use the _Gnome_ statblock. Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Construction Tricks* and *Speak with Burrowing Mammals*.
     - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
     - _Thief_: Use a d6 hit die
