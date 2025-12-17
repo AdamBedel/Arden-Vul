@@ -10,7 +10,6 @@
     - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Gain the additional *Combat Talents* (cc1) optional ability
     - _Goblin_: Use the _Gnome_ statblock. Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Construction Tricks* and *Speak with Burrowing Mammals*.
-    - _Half-Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
     - _Thief_: Use a d6 hit die
   - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier.
