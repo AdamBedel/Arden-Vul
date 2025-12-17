@@ -1,7 +1,7 @@
 # House Rules
 ## Character Creation Rules
   - Roll 3d6, down the line
-  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as these additional classes: _Assassin_ (adv), _Bard_ (adv), _Druid_ (adv), and _Goblin_ (adv).
+  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, _Druid_, and _Goblin_.
     - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
@@ -9,7 +9,7 @@
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Gain the additional *Combat Talents* (cc1) optional ability
-    - _Goblin_: Use the _Gnome_ (adv) statblock. Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Construction Tricks* and *Speak with Borrowing Mammals*.
+    - _Goblin_: Use the _Gnome_ statblock. Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Construction Tricks* and *Speak with Borrowing Mammals*.
     - _Half-Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
     - _Thief_: Use a d6 hit die
@@ -40,13 +40,13 @@ Summary:
   - The Slow weapon property is ignored.
 
 ## Other Rules
-  - Slot-Based Encumbrance Rules (cc2) TLDR:
+  - Slot-Based Encumbrance Rules. TLDR:
       - One-handed items, shields = 1 slot
       - Two-handed items, ranged weapons = 2 slots
       - 3 torches, 3 oil flasks, or 3 rations = 1 slot
       - Light/Med/Heavy Armor = 1/2/3 slots packed, or 1/2/2 slots equipped
       - Ammo pouches + quiver = 0 slots (already accounted for with ranged weapons)
   - Normal Humans: 2 + CON HP, and deal 1d2 + STR damage with weapons. -1 to hit with all weapons. Level up at 100 XP into a class of the PCs choosing, except for _Cleric_, _Druid_, or _Magic-User_.
-  - All Illusionist (adv) and Necromancer (nec) spells are added to the magic-user spell list.
-  - Spell Scrolls: can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level (or once per day if an Acolyte / Mage). Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome, and can only be attempted if it could be cast by the scriber. 
+  - All Illusionist and Necromancer spells are added to the magic-user spell list.
+  - Spell Scrolls: can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level. Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome, and can only be attempted if it could be cast by the scriber. 
   - Armor is renamed: chain -> lamellar, plate -> lorica segmentata
