@@ -9,8 +9,8 @@
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - _Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Gain the additional *Combat Talents* (cc1) optional ability
-    - _Goblin_: *Listen at Doors* (2 in 6) replaces *Wolf Affinity* and *Detect Construction Tricks*
-      - OR May use the _Gnome_ (adv) statblock reflavored as a goblin instead. In that case, lose *Detect Construction Tricks* and *Speak with Borrowing Mammals*
+    - _Goblin_: *Listen at Doors* (2 in 6) replaces *Detect Construction Tricks*
+      - OR May use the _Gnome_ (adv) statblock reflavored as a goblin instead. In that case, lose *Detect Construction Tricks* and *Speak with Borrowing Mammals* but gain *Wolf Affinity*
     - _Half-Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Magic-User_: Starts with Read Magic, 1 random spells, and 1 player-chosen spell in their spellbook
     - _Thief_: Use a d6 hit die
