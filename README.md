@@ -12,14 +12,14 @@
     - _Goblin_: Use the _Gnome_ statblock. Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Construction Tricks* and *Speak with Burrowing Mammals*.
     - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
     - _Thief_: Use a d6 hit die
-  - Abiliy scores may not be adjusted and Prime Requisite score does not grant an XP multiplier
+  - Class minimum scores are ignored. Prime Requisite score does not grant an XP multiplier.
   - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules)
   - Hit points must be rolled, except as 1st level where PCs **must** take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
   - Languages:
-    - There is no aligment language. Characters know Archontean, one background language (depending on class), and additional languages based on intelligence. The background langauges are:
-      - Dwarvish, Elvish, Halfing, Thorcin (Human), Wiskin (Human), and Khumus (Human)
-      - Archonteans and Goblins: No background langauge, but have knowledge of the empire and its history
-      - Any of these languages, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence
+    - There is no aligment language. All characters know Archontean, this is "Common" in Arden Vul
+    - Background langauges: Dwarvish, Elvish, Halfing, Thorcin (Human), Wiskin (Human), and Khumus (Human)
+    - Archonteans and Goblins: No background langauge, but have knowledge of the empire and its history
+    - Any language above, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence
 
 Summary:
 - Cleric types: Cleric, Bard, Druid
