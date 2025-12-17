@@ -21,7 +21,7 @@
     - Archonteans and Goblins: No background langauge, but have knowledge of the empire and its history
     - Any language above, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence
 
-Summary:
+Class Summary:
 - Cleric types: Cleric, Bard, Druid
 - Fighter types: Fighter, Dwarf, Halfling
 - Magic-User types: Magic-user, Elf, Goblin
