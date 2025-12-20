@@ -8,9 +8,9 @@
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Get the new feature *Combat Talents* as described in Carcass Crawler 1 (cc1.pdf)
-    - _Goblin Mage_ : Use the _Gnome_ statblock. Starts with Read Magic and 1 player-chosen spell in their spellbook. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_.
-    - _Goblin Rogue_ : Use the _Acrobat_ statblock. Use a d6 hit-die
-    - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
+    - _Goblin Mage_ : Use the _Gnome_ statblock, but with the _Illusionist_ and _Necromancer_ spell lists (not _Magic-User_). Starts with Read Magic and 1 player-chosen spell in their spellbook. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_. 
+    - _Goblin Rogue_ : Use the _Acrobat_ statblock, but with a d6 hit-die
+    - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook. Can also use _Illusionist_ and _Necromancer_ Spells.
     - _Thief_: Use a d6 hit die
   - Class minimum scores are ignored. Prime Requisite score does not grant an XP multiplier.
   - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules)
@@ -43,6 +43,5 @@
       - Light/Med/Heavy Armor = 1/2/3 slots packed, or 1/2/2 slots equipped
       - Ammo pouches + quiver = 0 slots (already accounted for with ranged weapons)
   - Normal Humans: 2 + CON HP, and deal 1d2 + STR damage with weapons. -1 to hit with all weapons. Level up at 100 XP.
-  - All _Illusionist_ and _Necromancer_ spells are added to the magic-user spell list
   - Spell Scrolls: can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level. Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome, and can only be attempted if it could be cast by the scriber. 
   - Armor is renamed: chain -> lamellar, plate -> lorica segmentata
