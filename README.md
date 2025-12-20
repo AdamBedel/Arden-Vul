@@ -1,15 +1,15 @@
 # House Rules
 ## Character Creation Rules
   - Roll 3d6, down the line
-  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, _Druid_, _Goblin_ (_Acrobat_), and _Illusionist_.
+  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, _Druid_, _Goblin Mage_ (_Gnome_), and _Goblin Rogue_ (_Acrobat_).
     - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Get the new feature *Combat Talents* as described in Carcass Crawler 1 (cc1.pdf)
-    - _Goblin_: Use the _Acrobat_ statblock, but with a d6 hit die
-    - _Illusionist_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
+    - _Goblin Magic-User_ : Use the _Gnome_ statblock. Starts with Read Magic and 1 player-chosen spell in their spellbook. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_.
+    - _Goblin Rogue_ : Use the _Acrobat_ statblock. Use a d6 hit-die
     - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook
     - _Thief_: Use a d6 hit die
   - Class minimum scores are ignored. Prime Requisite score does not grant an XP multiplier.
