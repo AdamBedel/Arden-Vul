@@ -1,8 +1,8 @@
 # House Rules
 ## Character Creation Rules
   - Roll 3d6, down the line
-  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, _Druid_, _Goblin Mage_ (_Gnome_), and _Goblin Rogue_ (_Acrobat_).
-    - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring!**
+  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, _Druid_, _Goblin Mage_ (_Gnome_), and _Goblin Rogue_ (_Acrobat_)
+    - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
