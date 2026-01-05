@@ -20,10 +20,10 @@ The general rules for creating a character in OSE are found on page 14 of the cl
   - We will use the popular two-axis allignment system. _Thief_ and _Assassin_ PCs may not be any form of lawful. Clerics must match their god's allignment.
   - Naming conventions and cleric gods are in the "Gods_and_People_of_Magae" document
   - Languages:
-    - There is no aligment language. All characters know Archontean (aka "Common").
+    - Default class langauges are ignored. There is no aligment language. All characters know Archontean (aka "Common").
     - Human classes choose a cultural background: Archontean, Thorcin, Wiskin, or Khumus
-    - Some backgrounds / races grant an additional language: Dwarvish, Elvish, Halfing, Thorcin, Wiskin, and Khumus
-    - Archontean and _Goblin_ PCs do not get a background language, but have cultural knowledge of the Archontean empire and its history
+    - The following backgrounds / classes grant an additional language: Dwarvish, Elvish, Thorcin, Wiskin, and Khumus
+    - Archontean, _Goblin_, and _Halfling_ PCs do not get a background language, but have cultural knowledge of the Archontean empire and its history
     - Any language above, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence
   - For equipment, we will use the "Quick Equipment" table from "cc2.pdf". Armor is renamed to follow ADND conventions:
     - Chainmail -> Lamellar
