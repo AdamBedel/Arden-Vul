@@ -2,11 +2,12 @@ Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 
 1. Cleave (recommended at 1st level)
 	- When in melee with multiple foes, if the fighter strikes a killing
-	blow, they may immediately make another melee attack.
+	blow, they may immediately make a second melee attack.
 
 2. Defender
 	- When the fighter is in melee with a foe, any attacks the foe
-	makes at characters other than the fighter are penalised at –2.
+	makes at characters other than the fighter are penalised at –2. The
+	fighter gains an additional +2 to attack enemies moving out of melee.
 
 3. Leader
 	- The fighter may hire 2 additional retainers, and all the fighter's
@@ -15,16 +16,17 @@ Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 
 4. Main Gauche
 	- When fighting with two weapons, the fighter gets +1 AC and may sunder
-	their off-hand weapon as if it was a shield. This reduces damage by 1d12
-	instead of reducing the damage to 0 as shields do. 
+	their off-hand weapon as if it was a shield. This reduces damage by the
+	fighter's weapon damage instead of reducing the damage to 0 as shields do. 
 
 5. Slayer
 	- The fighter gains a +1 bonus to attack and damage rolls when in combat
-	with foes of a specific type. The type of enemy must be chosen when
-	this talent is selected. (Examples: undead, clerics, dragons, etc.)
+	with foes of a specific type chosen by the player. (Examples: undead,
+	clerics, goblins, etc.)
 
 6. Weapon Specialist
 	- The fighter gains a +1 bonus to attack and damage rolls when using a
-	specific type of weapon chosen by the player (e.g. maces, two-handed
-	swords, longbows, etc.).
+	specific type of weapon chosen by the player. (Examples: maces, two-handed
+	swords, longbows, etc.)
+
 
