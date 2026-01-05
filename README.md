@@ -1,9 +1,9 @@
 # House Rules
 ## Character Creation Rules
-The general rules for creating a character in OSE are found on page 14 of the basic player's tome. Also see the fillable character sheet PDF.  These steps are changed by the following houserules:
+The general rules for creating a character in OSE are found on page 14 of the classic player's tome. Also see the fillable character sheet PDF.  These steps are changed by the following houserules:
 
   - Roll 3d6 for each ability score in order, no rearranging and no adjusting.
-  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, and _Goblin_.
+  - All classic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, and _Goblin_.
     - **Other more powerful classes exist in the world that can be unlocked by alligning with certain factions**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
