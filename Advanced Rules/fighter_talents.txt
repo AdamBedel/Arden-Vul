@@ -15,9 +15,9 @@ Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 	60’ gain a +2 bonus to saves against fear effects.
 
 4. Main Gauche
-	- When fighting with two weapons, the fighter gets +1 AC and may sunder
-	their off-hand weapon as if it was a shield. This reduces damage by the
-	fighter's weapon damage instead of reducing the damage to 0 as shields do. 
+	- When fighting with two weapons, each round the fighter can forgo their
+	advantage to gain a +1 AC. They may also sunder their off-hand weapon as
+	if it was a shield. 
 
 5. Slayer
 	- The fighter gains a +1 bonus to attack and damage rolls when in combat
@@ -28,5 +28,6 @@ Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 	- The fighter gains a +1 bonus to attack and damage rolls when using a
 	specific type of weapon chosen by the player. (Examples: maces, two-handed
 	swords, longbows, etc.)
+
 
 
