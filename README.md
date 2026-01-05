@@ -1,8 +1,8 @@
 # House Rules
 ## Character Creation Rules
-  - For stat generation, roll 3d6 for each stat in order
+  - For stat generation, roll 3d6 for each stat in order. See the fillable character sheet PDF.
   - All basic classes are allowed (_Cleric_, _Dwarf_, ~~_Elf_~~, _Fighter_, ~~_Halfing_~~, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, ~~_Bard_~~, _Druid_, _Goblin Mage_ (_Gnome_), and ~~_Goblin Rogue_ (_Acrobat_)~~. I am considering a WIP homebrew _Monk_ option instead of _Assassin_.
-    - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring**
+    - **Other more powerful classes exist in the world that can be unlocked by alligning with certain factions**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
