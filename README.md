@@ -2,17 +2,19 @@
 ## Character Creation Rules
 The general rules for creating a character in OSE are found on page 14 of the classic player's tome. Also see the fillable character sheet PDF.  These steps are changed by the following houserules:
 
-  - Roll 3d6 for each ability score in order, no rearranging and no adjusting.
+  - Roll 3d6 for each ability score in order, no rearranging and no adjusting. 
   - All classic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, and _Goblin_.
     - **Other more powerful classes exist in the world that can be unlocked by alligning with certain factions**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
     - _Bard_: Start with Mythric as a known language
-    - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
-    - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
-    - _Fighter_: Get additional *Fighter Talents* as described in the "fighter_talents" document.
-    - _Goblin_ : Use the _Gnome_ statblock, but with the _Illusionist_ and _Necromancer_ spell lists (not _Magic-User_). Starts with Read Magic and 1 player-chosen spell in their spellbook. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_. 
-    - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook. Can also use _Illusionist_ and _Necromancer_ Spells.
+    - _Cleric_: Must choose a god of matching allignment from the "Gods and People of Magae" document
+    - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain +1 HP per level
+    - _Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
+    - _Fighter_: Get additional *Fighter Talents* as described in the "fighter_talents" document
+    - _Goblin_ : Use the _Gnome_ statblock, but use the _Illusionist_ and _Necromancer_ spell lists instead of the normal _Magic-User_ list. Start with Read Magic and 1 player-chosen spell in their spellbook. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_.
+    - _Halfling_: *Inititive Bonus* is changed: a party with a _Halfling_ wins initiative ties, rather than rerolling. 
+    - _Magic-User_: Start with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook. Can also use _Illusionist_ and _Necromancer_ Spells.
     - _Thief_: Use a d6 hit die
   - Class minimum required ability scores are ignored. Prime Requisite score does not grant an XP multiplier and is ignored.
   - For attack bonus and AC values, we will use ascending armor class (the numbers in brackets in OSE rules). At first level your attack bonus is 0 modified by STR / DEX. 
