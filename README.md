@@ -7,7 +7,7 @@ The general rules for creating a character in OSE are found on page 14 of the cl
     - **Other more powerful classes exist in the world that can be unlocked by alligning with certain factions**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
-    - _Bard_: Start with Mythric as a known language
+    - _Bard_: Start with Mythric as a known language. Use the _Cleric_ spell list instead of the _Druid_ list.
     - _Cleric_: Must choose a god of matching allignment from the "Gods and People of Magae" document
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain +1 HP per level
     - _Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
