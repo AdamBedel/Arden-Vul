@@ -1,15 +1,14 @@
 # House Rules
 ## Character Creation Rules
   - For stat generation, roll 3d6 for each stat in order. See the fillable character sheet PDF.
-  - All basic classes are allowed (_Cleric_, _Dwarf_, ~~_Elf_~~, _Fighter_, ~~_Halfing_~~, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, ~~_Bard_~~, _Druid_, _Goblin Mage_ (_Gnome_), and ~~_Goblin Rogue_ (_Acrobat_)~~. I am considering a WIP homebrew _Monk_ option instead of _Assassin_.
+  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, _Druid_, and _Goblin_ (_Gnome_). I am considering a WIP homebrew _Monk_ option instead of _Assassin_.
     - **Other more powerful classes exist in the world that can be unlocked by alligning with certain factions**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Get additional *Combat Talents* as described in the "fighter_talents" document.
-    - _Goblin Mage_ : Use the _Gnome_ statblock, but with the _Illusionist_ and _Necromancer_ spell lists (not _Magic-User_). Starts with Read Magic and 1 player-chosen spell in their spellbook. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_. 
-    - _Goblin Rogue_ : Use the _Acrobat_ statblock, but with a d6 hit-die
+    - _Goblin_ : Use the _Gnome_ statblock, but with the _Illusionist_ and _Necromancer_ spell lists (not _Magic-User_). Starts with Read Magic and 1 player-chosen spell in their spellbook. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_. 
     - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook. Can also use _Illusionist_ and _Necromancer_ Spells.
     - _Thief_: Use a d6 hit die
   - Class minimum required ability scores are ignored. Prime Requisite score does not grant an XP multiplier and is ignored.
