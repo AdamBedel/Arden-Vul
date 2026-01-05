@@ -1,6 +1,7 @@
 # House Rules
 ## Character Creation Rules
   - For stat generation, roll 3d6 for each stat in order. See the fillable character sheet PDF.
+  - For starting gold, roll 2d6 x 10
   - All basic classes are allowed (_Cleric_, _Dwarf_, ~~_Elf_~~, _Fighter_, ~~_Halfing_~~, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, ~~_Bard_~~, _Druid_, _Goblin Mage_ (_Gnome_), and ~~_Goblin Rogue_ (_Acrobat_)~~. I am considering a WIP homebrew _Monk_ option instead of _Assassin_.
     - **Other more powerful classes exist in the world that can be unlocked by alligning with certain factions**
   - Class Changes:
