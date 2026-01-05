@@ -16,7 +16,7 @@ Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 
 4. Main Gauche
 	- When fighting with two weapons, each round the fighter can forgo their
-	advantage to gain a +1 AC. They may also sunder their off-hand weapon as
+	advantage to gain +1 AC. They may also sunder their off-hand weapon as
 	if it was a shield at any time.
 
 5. Slayer
@@ -28,6 +28,7 @@ Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 	- The fighter gains a +1 bonus to attack and damage rolls when using a
 	specific type of weapon chosen by the player. (Examples: maces, two-handed
 	swords, longbows, etc.)
+
 
 
 
