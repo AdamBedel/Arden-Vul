@@ -1,4 +1,4 @@
-Fighter Talents (Fighters gain 1 talent as 1st, 5th, and 10th levels)
+Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 
 1. Cleave (recommended at 1st level)
 	- When in melee with multiple foes, if the fighter strikes a killing
@@ -26,4 +26,5 @@ Fighter Talents (Fighters gain 1 talent as 1st, 5th, and 10th levels)
 6. Weapon Specialist
 	- The fighter gains a +1 bonus to attack and damage rolls when using a
 	specific type of weapon chosen by the player (e.g. maces, two-handed
+
 	swords, longbows, etc.).
