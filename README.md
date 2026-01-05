@@ -7,7 +7,7 @@
     - _Assassin_: Use a d6 hit die
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
-    - _Fighter_: Get the new feature *Combat Talents* as described in Carcass Crawler 1 (cc1.pdf)
+    - _Fighter_: Get additional *Combat Talents* as described in the "fighter_talents" document.
     - _Goblin Mage_ : Use the _Gnome_ statblock, but with the _Illusionist_ and _Necromancer_ spell lists (not _Magic-User_). Starts with Read Magic and 1 player-chosen spell in their spellbook. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_. 
     - _Goblin Rogue_ : Use the _Acrobat_ statblock, but with a d6 hit-die
     - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook. Can also use _Illusionist_ and _Necromancer_ Spells.
