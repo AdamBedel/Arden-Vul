@@ -7,6 +7,7 @@ The general rules for creating a character in OSE are found on page 14 of the cl
     - **Other more powerful classes exist in the world that can be unlocked by alligning with certain factions**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
+    - _Bard_: Start with Mythric as a known language
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain Halfling *Defensive Bonus* 
     - _Elf_: Start with Read Magic, 1 random spell, and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
     - _Fighter_: Get additional *Fighter Talents* as described in the "fighter_talents" document.
