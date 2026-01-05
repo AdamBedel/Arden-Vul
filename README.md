@@ -15,6 +15,7 @@
   - Class minimum required ability scores are ignored. Prime Requisite score does not grant an XP multiplier and is ignored.
   - For attack and AC values, we will use ascending armor class (the numbers in brackets in OSE rules)
   - Hit points must be rolled, except as 1st level where PCs **must** take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
+  - Naming conventions are in the "Gods_and_People_of_Magae" document. This is not my document, and I will be changing the lore for goblins and dwarves. 
   - Languages:
     - There is no aligment language. All characters know Archontean, this is "Common" in Arden Vul
     - Some backgrounds grant an additional language: Dwarvish, Elvish, Halfing, Thorcin, Wiskin, and Khumus
