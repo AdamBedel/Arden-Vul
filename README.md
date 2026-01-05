@@ -1,7 +1,7 @@
 # House Rules
 ## Character Creation Rules
-  - Roll 3d6, down the line
-  - All basic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, _Druid_, _Goblin Mage_ (_Gnome_), and _Goblin Rogue_ (_Acrobat_)
+  - For stat generation, roll 3d6 for each stat in order
+  - All basic classes are allowed (_Cleric_, _Dwarf_, ~~_Elf_~~, _Fighter_, ~~_Halfing_~~, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, ~~_Bard_~~, _Druid_, _Goblin Mage_ (_Gnome_), and ~~_Goblin Rogue_ (_Acrobat_)~~. I am considering a WIP homebrew _Monk_ option instead of _Assassin_.
     - **Many other, sometimes unique, classes exist in the world that must be unlocked through adventuring**
   - Class Changes:
     - _Assassin_: Use a d6 hit die
@@ -12,20 +12,21 @@
     - _Goblin Rogue_ : Use the _Acrobat_ statblock, but with a d6 hit-die
     - _Magic-User_: Starts with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook. Can also use _Illusionist_ and _Necromancer_ Spells.
     - _Thief_: Use a d6 hit die
-  - Class minimum scores are ignored. Prime Requisite score does not grant an XP multiplier.
-  - For attack and AC values, we will use ascending armor class (numbers in brackets in OSE rules)
+  - Class minimum required ability scores are ignored. Prime Requisite score does not grant an XP multiplier and is ignored.
+  - For attack and AC values, we will use ascending armor class (the numbers in brackets in OSE rules)
   - Hit points must be rolled, except as 1st level where PCs **must** take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
   - Languages:
     - There is no aligment language. All characters know Archontean, this is "Common" in Arden Vul
     - Some backgrounds grant an additional language: Dwarvish, Elvish, Halfing, Thorcin, Wiskin, and Khumus
-    - Human classes may choose to be Archontean, Thorcin, Wiskin, or Khumus
-    - Archonteans (Human) and Goblins: No background langauge, but have knowledge of the empire and its history
+    - Human classes may choose the following cultural backgrounds: Archontean, Thorcin, Wiskin, or Khumus
+    - Archontean humans and Goblins: No background language, but have knowledge of the empire and its history
     - Any language above, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence
 
 
 ## Combat Rules
-  - PCs deal damage equal to their hit die with weapons, regardless of the weapon type (modified by STR for melee weapons)
-  - Character damage increases when class to-hit modifier increases (every 3-5 levels depending on class)
+  - Players can take combat actions (attack, move, cast a spell) in any order during the player turn. 
+  - PCs deal weapon damage equal to their hit die, regardless of the weapon type (modified by STR for melee weapons)
+  - Weapon damage increases when class to-hit modifier increases (every 3-5 levels depending on class)
       - d4 hit die: 1d4 -> 1d6 -> 2d4
       - d6 hit die: 1d6 -> 1d8 -> 2d6
       - d8 hit die: 1d8 -> 1d12 -> 2d8
