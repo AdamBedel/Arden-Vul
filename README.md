@@ -55,4 +55,3 @@ The general rules for creating a character in OSE are found on page 14 of the cl
   - Hiring Retainers: Retainers receiving less than a 1/2 share of treasure will not directly engage in combat. 
   - Normal Humans: 2 + CON HP, and deal 1d2 + STR damage with weapons. -1 to hit with all weapons. Level up at 100 XP.
   - Spell Scrolls: can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level. Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome, and can only be attempted if it could be cast by the scriber.
-  - Armor Renamed: Chainmail -> Lamellar
