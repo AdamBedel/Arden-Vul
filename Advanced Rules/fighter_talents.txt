@@ -2,7 +2,7 @@ Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 
 1. Cleave (recommended at 1st level)
 	- When in melee with multiple foes, if the fighter strikes a killing
-	blow, they may immediately make a second melee attack.
+	blow, they may immediately make an additional melee attack.
 
 2. Defender
 	- When the fighter is in melee with a foe, any attacks the foe
@@ -28,6 +28,7 @@ Fighter Talents (Fighters gain a talent as 1st, 5th, and 10th levels)
 	- The fighter gains a +1 bonus to attack and damage rolls when using a
 	specific type of weapon chosen by the player. (Examples: maces, two-handed
 	swords, longbows, etc.)
+
 
 
 
