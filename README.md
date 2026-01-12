@@ -15,33 +15,33 @@ The general rules for creating a character in OSE are found on page 14 of the cl
       - _Magic-User_: Start with a spellbook containing Read Magic, 2 random spells, and 1 player-chosen spell. Can also use _Illusionist_ and _Necromancer_ Spells.
       - _Thief_: Use a d6 hit die instead of a d4
   4. Note Ability Score Modifiers:
-    - 18: +3
-    - 16-17: +2
-    - 13-15: +1
-    - 9-12: 0
-    - 6-8: -1
-    - 4-5: -2
-    - 3: -3
+      - 18: +3
+      - 16-17: +2
+      - 13-15: +1
+      - 9-12: 0
+      - 6-8: -1
+      - 4-5: -2
+      - 3: -3
   5. Note damage and attack values:
-    - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your strength modifier.
-    - For ranged attacks, you deal damage equal to your classes hit die. For to-hit rolls, you get a bonus equal to your dexterity modifier.
+      - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your strength modifier.
+      - For ranged attacks, you deal damage equal to your classes hit die. For to-hit rolls, you get a bonus equal to your dexterity modifier.
   6. Note Saving Throws, looking at the chart for a 1st level character of your chosen class. (D, W, P, B, S)
   7.  Write down your max HP. At first level, this is the average value (rounded up) and modified by your consitution modifier. (d4 = 3, d6 = 4, d8 = 5)
   8. Choose an allignment. Lawful good, chaotic evil, etc. (This is unimportant for most people, except clerics who must always match their god's allignment)
   9. Note known languages:
-    - All characters know Archontean (aka "Common").
-    - Humans must choose a cultural background: Archontean, Thorcin, Wiskin, or Khumus
-    - Archontean humans, goblins, and halflings do not get any additional languages, every other class gets their 1 background language for free.
-    - You get additional languages based on your intelligence modifier. The languages you may choose are: Thorcin, Wiskin, Khumus, Goblin, Draconic, Mithric (ancient language of magic theory), elvish, and dwarvish.
+      - All characters know Archontean (aka "Common").
+      - Humans must choose a cultural background: Archontean, Thorcin, Wiskin, or Khumus
+      - Archontean humans, goblins, and halflings do not get any additional languages, every other class gets their 1 background language for free.
+      - You get additional languages based on your intelligence modifier. The languages you may choose are: Thorcin, Wiskin, Khumus, Goblin, Draconic, Mithric (ancient language of magic theory), elvish, and dwarvish.
   10. Roll or buy equipment.
-    - To buy equipment, roll 3d6 x 10 starting gold and buy equipment, armor and weapons from this lists on pages 40-42.
-    - To roll equipment, follow the rules contained in the "roll_equipment" document.
-      - Rename the armor gained in this way to follow ADND conventions:
-        - Chainmail -> Lamellar
-        - Plate -> Splint
+      - To buy equipment, roll 3d6 x 10 starting gold and buy equipment, armor and weapons from this lists on pages 40-42.
+      - To roll equipment, follow the rules contained in the "roll_equipment" document.
+        - Rename the armor gained in this way to follow ADND conventions:
+          - Chainmail -> Lamellar
+          - Plate -> Splint
   11. Note AC
-    - Normal AC comes from your equipped armor. With leather = 12, lamellar = 14, splint = 16, shield = +1. This number is also modified by your dexterity modifier.
-    - Unarmored AC is 10 + your dexterity modifier.
+      - Normal AC comes from your equipped armor. With leather = 12, lamellar = 14, splint = 16, shield = +1. This number is also modified by your dexterity modifier.
+      - Unarmored AC is 10 + your dexterity modifier.
   12. Name your character. Recommended conventions are in the "Gods_and_People_of_Magae" document
 
 
