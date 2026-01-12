@@ -14,7 +14,7 @@ horsefly. The cultists found them irritating.
 
 Jack - 
 
-34. We knew some folks who climbed down a well from the surface into the secret halls of Thoth (see AV-14). All but one never
+34. We knew some folks who climbed down a well from the surface into the secret halls of Thoth. All but one never
 came back, and the one that did was blind and mad! He kept babbling about the dark and the hooting ... the hooting ....
 
 6. Many of the most ardent devotees of Thoth, known as Thoth's Beloved, were buried in a set of catacombs located just under
@@ -80,5 +80,6 @@ Archonteans. To reach the Market, one needs to pass the Sundered
 Span and traverse the Great Chasm almost to the bottom.
 
 The Great Chasm : nothing
+
 
 The Ziggurat : nothing
