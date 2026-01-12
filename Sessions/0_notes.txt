@@ -1,7 +1,7 @@
 Jacob - Virgel - level 1 goblin
 Jack - Larry Berrymasher - level 1 halfling
-Nico - Ogdo Bogdo - level 1 magic-user
-TBD - level 1 cleric Theles (love, desire, aspiration, planning)
+Nico - Ogdo Bogdo - level 1 Khumus magic-user
+Dan - TBD - level 1 Khumus cleric of Thelis (love, desire, aspiration, planning)
 
 Jacob - 
 
@@ -87,5 +87,6 @@ The Great Chasm : nothing
 
 
 The Ziggurat : nothing
+
 
 
