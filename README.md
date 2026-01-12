@@ -4,8 +4,6 @@ The general rules for creating a character in OSE are found on page 14 of the cl
 
   1. Roll 3d6 for each ability score in order, no rearranging or adjusting.
   2. Choose a class from below and write down their class features. There are no minimum required scores or Prime Requisites.
-    - All "classic" classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, and _Goblin_.
-    - Class Changes:
       - _Assassin_: Use a d6 hit die instead of a d4
       - _Bard_: Start with Mythric as a language. Use the _Cleric_ spell list instead of the _Druid_ list.
       - _Cleric_: Must choose a god from the "Gods and People of Magae" document
