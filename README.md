@@ -3,7 +3,15 @@
 The general rules for creating a character in OSE are found on page 14 of the classic player's tome. The character sheet is on this page as a fillable PDF.  To create a character, follow the following steps:
 
   1. Roll 3d6 for each ability score in order, no rearranging or adjusting.
-  2. Choose a class from below and write down their class features. Many are changed as listed below. There are no minimum required scores or Prime Requisites.
+  2. Note Ability Score Modifiers:
+      - 18:    +3
+      - 16-17: +2
+      - 13-15: +1
+      - 9-12:   0
+      - 6-8:   -1
+      - 4-5:   -2
+      - 3:     -3
+  3. Choose a class from below and write down their class features. Many are changed as listed below. There are no minimum required scores or Prime Requisites.
       - _Assassin_: Use a d6 hit die instead of a d4
       - _Bard_: Start with Mythric as a language. Use the _Cleric_ spell list instead of the _Druid_ list.
       - _Cleric_: Must choose a god from the "Gods and People of Magae" document
@@ -14,36 +22,28 @@ The general rules for creating a character in OSE are found on page 14 of the cl
       - _Halfling_: *Inititive Bonus* is changed since we will use group initiative: a party with a _Halfling_ wins initiative ties, rather than rerolling. 
       - _Magic-User_: Start with a spellbook containing Read Magic, 2 random spells, and 1 player-chosen spell. Can also use _Illusionist_ and _Necromancer_ Spells.
       - _Thief_: Use a d6 hit die instead of a d4
-  4. Note Ability Score Modifiers:
-      - 18:    +3
-      - 16-17: +2
-      - 13-15: +1
-      - 9-12:   0
-      - 6-8:   -1
-      - 4-5:   -2
-      - 3:     -3
-  5. Note damage and attack values:
+  4. Note damage and attack values:
       - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your strength modifier. e.g. a cleric with 13 strength deals 1d6 + 1 damage and has a +1 to hit. 
       - For ranged attacks, you deal damage equal to your classes hit die. For to-hit rolls, you get a bonus equal to your dexterity modifier. e.g. a fighter with a 13 dexterity deals 1d8 damage and has a +1 to hit.
-  6. Note Saving Throws, looking at the chart for a 1st level character of your chosen class. (D, W, P, B, S)
-  7. Write down your max HP. At first level, this is the average value (rounded up) and modified by your consitution modifier. (d4 = 3, d6 = 4, d8 = 5)
-  8. Choose an allignment. Lawful good, chaotic evil, etc. (This is unimportant for most people, except clerics who must always match their god's allignment)
-  9. Write down your exploration skills. Unless your class says otherwise, Listen at Doors is a 1 and Open Doors is 2 + your strength modifier (minimum of 1).
-  10. Note known languages:
+  5. Note Saving Throws, looking at the chart for a 1st level character of your chosen class. (D, W, P, B, S)
+  6. Write down your max HP. At first level, this is the average value (rounded up) and modified by your consitution modifier. (d4 = 3, d6 = 4, d8 = 5)
+  7. Choose an allignment. Lawful good, chaotic evil, etc. (This is unimportant for most people, except clerics who must always match their god's allignment)
+  8. Write down your exploration skills. Unless your class says otherwise, Listen at Doors is a 1 and Open Doors is 2 + your strength modifier (minimum of 1).
+  9. Note known languages:
       - All characters know Archontean (aka "Common").
       - Humans must choose a cultural background: Archontean, Thorcin, Wiskin, or Khumus
       - Archontean humans, goblins, and halflings do not get any additional languages, every other class gets their 1 background language for free.
       - You get additional languages based on your intelligence modifier. The languages you may choose are: Thorcin, Wiskin, Khumus, Goblin, Draconic, Mithric (ancient language of magic theory), elvish, and dwarvish.
-  11. Roll or buy equipment.
+  10. Roll or buy equipment.
       - To buy equipment, roll 3d6 x 10 starting gold and buy equipment, armor and weapons from this lists on pages 40-42.
       - To roll equipment, follow the rules contained in the "roll_equipment" document.
         - Rename the armor gained in this way to follow ADND conventions:
           - Chainmail -> Lamellar
           - Plate -> Splint
-  12. Note AC
+  11. Note AC
       - Normal AC comes from your equipped armor. With leather = 12, lamellar = 14, splint = 16, shield = +1. This number is also modified by your dexterity modifier.
       - Unarmored AC is 10 + your dexterity modifier.
-  13. Name your character. Recommended conventions are in the "Gods_and_People_of_Magae" document
+  11. Name your character. Recommended conventions are in the "Gods_and_People_of_Magae" document
 
 
 ## Combat Rules
