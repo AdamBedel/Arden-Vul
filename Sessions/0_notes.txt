@@ -128,6 +128,11 @@ A new town, founded by Lady Alexia within the past decade. She is in a political
 who the proper ruler of this Exarchate (regional area) should be. The town was built to support adventurers and extract wealth from
 the nearby ruins of Arden Vul.
 
+The Imperial Regalia
+
+Four famous items once wielded by the Archons of Arden Vul. The wielder of the regalia is said to be the proper ruler of
+the Arden Vul Exarchate, making them second in power to only the emperor himself. One of these items is called the Iron Circlet of Ghanor.
+
 Marius "Invictus" Tricotor
 
 The most famous Archon (regional govenor) of Arden Vul. He was said to have led the Archonteans in many great victories 
@@ -146,4 +151,5 @@ along with her compainion, Vul the Sorcerer. The most beloved of Archontean lege
 Vul "The Sorcerer"
 
 In Archontean legend, was said to be the travelling companion of Arden.
+
 
