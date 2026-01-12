@@ -15,13 +15,13 @@ The general rules for creating a character in OSE are found on page 14 of the cl
       - _Magic-User_: Start with a spellbook containing Read Magic, 2 random spells, and 1 player-chosen spell. Can also use _Illusionist_ and _Necromancer_ Spells.
       - _Thief_: Use a d6 hit die instead of a d4
   4. Note Ability Score Modifiers:
-      - 18: +3
+      - 18:    +3
       - 16-17: +2
       - 13-15: +1
-      - 9-12: 0
-      - 6-8: -1
-      - 4-5: -2
-      - 3: -3
+      - 9-12:   0
+      - 6-8:   -1
+      - 4-5:   -2
+      - 3:     -3
   5. Note damage and attack values:
       - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your strength modifier.
       - For ranged attacks, you deal damage equal to your classes hit die. For to-hit rolls, you get a bonus equal to your dexterity modifier.
