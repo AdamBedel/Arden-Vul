@@ -1,13 +1,13 @@
 # House Rules
 ## Character Creation Rules
-The general rules for creating a character in OSE are found on page 14 of the classic player's tome. Also see the fillable character sheet PDF.  These steps are changed by the following houserules:
+The general rules for creating a character in OSE are found on page 14 of the classic player's tome. Also see the fillable character sheet PDF.  To create a character, follow the following steps:
 
-  - Roll 3d6 for each ability score in order, no rearranging and no adjusting. 
-  - All classic classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, and _Goblin_.
-    - **Other more powerful classes exist in the world that can be unlocked by alligning with certain factions**
+  1. Roll 3d6 for each ability score in order, no rearranging or adjusting.
+  2. Choose a class and write down their class features. There are no minimum required scores or Prime Requisites. 
+  - All "classic" classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, and _Goblin_.
   - Class Changes:
     - _Assassin_: Use a d6 hit die
-    - _Bard_: Start with Mythric as a known language. Can choose the _Cleric_ spell list instead of the _Druid_ list if desired at character creation.
+    - _Bard_: Start with Mythric as a known language. Use the _Cleric_ spell list instead of the _Druid_ list if desired at character creation.
     - _Cleric_: Must choose a god of matching allignment from the "Gods and People of Magae" document
     - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps* but gain +1 HP per level
     - _Elf_: Start with Read Magic and 1 player-chosen spell in their spellbook but lose *Detect Secret Doors* ability
@@ -16,17 +16,30 @@ The general rules for creating a character in OSE are found on page 14 of the cl
     - _Halfling_: *Inititive Bonus* is changed: a party with a _Halfling_ wins initiative ties, rather than rerolling. 
     - _Magic-User_: Start with Read Magic, 2 random spells, and 1 player-chosen spell in their spellbook. Can also use _Illusionist_ and _Necromancer_ Spells.
     - _Thief_: Use a d6 hit die
-  - Class minimum required ability scores are ignored. Prime Requisite score does not grant an XP multiplier and is ignored.
+  3. Note Ability Score Modifiers:
+    - 18: +3
+    - 16-17: +2
+    - 13-15: +1
+    - 9-12: 0
+    - 6-8: -1
+    - 4-5: -2
+    - 3: -3
+  4. Note damage and attack values:
+    - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your strength modifier.
+    - For ranged attacks, you deal damage equal to your classes hit die. For to-hit rolls, you get a bonus equal to your dexterity modifier.
+  5. Note Saving Throws, looking at the chart for a 1st level character of your chosen class. (D, W, P, B, S)
+  6.  Write down your max HP. At first level, this is the average value (rounded up) and modified by your consitution modifier. (d4 = 3, d6 = 4, d8 = 5)
+  7. Choose an allignment. Lawful good, chaotic evil, etc. (This is unimportant for most people, except clerics who must always match their god's allignment)
+  8. Note known languages:
+    - All characters know Archontean (aka "Common").
+    - Humans must choose a cultural background: Archontean, Thorcin, Wiskin, or Khumus
+    - Archontean humans, goblins, and halflings do not get any additional languages, every other class gets their 1 background language for free.
+    - You get additional languages based on your intelligence modifier. The languages you may choose are: Thorcin, Wiskin, Khumus, Goblin, Draconic, Mithric (ancient language of magic theory), elvish, and dwarvish.
+  9. Roll or buy equipment.
+    - To buy equipment, roll 3d6 x 10 starting gold and buy equipment, armor and weapons from this lists on pages 40-42.
+    - To roll equipment, follow the rules contained in the "roll_equipment" document.
   - For attack bonus and AC values, we will use ascending armor class (the numbers in brackets in OSE rules). At first level your attack bonus is 0 modified by STR / DEX. 
-  - At 1st level PCs take the average value (rounded up) for hit points. (d4 = 3, d6 = 4, d8 = 5)
-  - We will use the popular two-axis allignment system. _Thief_ and _Assassin_ PCs may not be any form of lawful. Clerics must match their god's allignment.
   - Naming conventions and cleric gods are in the "Gods_and_People_of_Magae" document
-  - Languages:
-    - Default class langauges are ignored. There is no aligment language. All characters know Archontean (aka "Common").
-    - Human classes choose a cultural background: Archontean, Thorcin, Wiskin, or Khumus
-    - The following backgrounds / classes grant an additional language: Dwarvish, Elvish, Thorcin, Wiskin, and Khumus
-    - Archontean, _Goblin_, and _Halfling_ PCs do not get a background language, but have cultural knowledge of the Archontean empire and its history
-    - Any language above, as well as Mithric (the ancient language of magic theory), Goblin, or Draconic may be chosen as additional languages from intelligence
   - For equipment, we will use the "Quick Equipment" table from "cc2.pdf". Armor is renamed to follow ADND conventions:
     - Chainmail -> Lamellar
     - Plate -> Splint  
