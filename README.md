@@ -3,7 +3,7 @@
 The general rules for creating a character in OSE are found on page 14 of the classic player's tome. The character sheet is on this page as a fillable PDF.  To create a character, follow the following steps:
 
   1. Roll 3d6 for each ability score in order, no rearranging or adjusting.
-  2. Choose a class from below and write down their class features. There are no minimum required scores or Prime Requisites.
+  2. Choose a class from below and write down their class features. Many are changed as listed below. There are no minimum required scores or Prime Requisites.
       - _Assassin_: Use a d6 hit die instead of a d4
       - _Bard_: Start with Mythric as a language. Use the _Cleric_ spell list instead of the _Druid_ list.
       - _Cleric_: Must choose a god from the "Gods and People of Magae" document
