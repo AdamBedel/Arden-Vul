@@ -1,6 +1,6 @@
 # House Rules
 ## Character Creation Rules
-The general rules for creating a character in OSE are found on page 14 of the classic player's tome. The character sheet is on this page as a fillable PDF.  To create a character, follow the following steps:
+The general rules for creating a character in OSE are found on page 14 of the classic player's tome. The character sheet is "custom_character_sheet_v_2.1"  To create a character, follow the following steps:
 
   1. Roll 3d6 for each ability score in order, no rearranging or adjusting.
   2. Note Ability Score Modifiers:
