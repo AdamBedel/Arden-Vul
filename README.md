@@ -4,18 +4,18 @@ The general rules for creating a character in OSE are found on page 14 of the cl
 
   1. Roll 3d6 for each ability score in order, no rearranging or adjusting.
   2. Choose a class from below and write down their class features. There are no minimum required scores or Prime Requisites. 
-  - All "classic" classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, and _Goblin_.
-  - Class Changes:
-    - _Assassin_: Use a d6 hit die instead of a d4
-    - _Bard_: Start with Mythric as a language. Use the _Cleric_ spell list instead of the _Druid_ list.
-    - _Cleric_: Must choose a god from the "Gods and People of Magae" document
-    - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps*. Increase constituion modifier by 1.
-    - _Elf_: Start with a spellbook containing Read Magic and 1 player-chosen spell. Lose *Detect Secret Doors*
-    - _Fighter_: Gain additional *Fighter Talents* as described in the "fighter_talents" document
-    - _Goblin_ : Use the _Gnome_ statblock, but use the _Illusionist_ and _Necromancer_ spell lists instead of the normal _Magic-User_ list. Start with a spellbook containing Read Magic and 1 player-chosen spell. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_.
-    - _Halfling_: *Inititive Bonus* is changed since we will use group initiative: a party with a _Halfling_ wins initiative ties, rather than rerolling. 
-    - _Magic-User_: Start with a spellbook containing Read Magic, 2 random spells, and 1 player-chosen spell. Can also use _Illusionist_ and _Necromancer_ Spells.
-    - _Thief_: Use a d6 hit die instead of a d4
+    - All "classic" classes are allowed (_Cleric_, _Dwarf_, _Elf_, _Fighter_, _Halfing_, _Magic-User_, _Thief_) as well as the following advanced classes: _Assassin_, _Bard_, and _Goblin_.
+    - Class Changes:
+      - _Assassin_: Use a d6 hit die instead of a d4
+      - _Bard_: Start with Mythric as a language. Use the _Cleric_ spell list instead of the _Druid_ list.
+      - _Cleric_: Must choose a god from the "Gods and People of Magae" document
+      - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps*. Increase constituion modifier by 1.
+      - _Elf_: Start with a spellbook containing Read Magic and 1 player-chosen spell. Lose *Detect Secret Doors*
+      - _Fighter_: Gain additional *Fighter Talents* as described in the "fighter_talents" document
+      - _Goblin_ : Use the _Gnome_ statblock, but use the _Illusionist_ and _Necromancer_ spell lists instead of the normal _Magic-User_ list. Start with a spellbook containing Read Magic and 1 player-chosen spell. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_.
+      - _Halfling_: *Inititive Bonus* is changed since we will use group initiative: a party with a _Halfling_ wins initiative ties, rather than rerolling. 
+      - _Magic-User_: Start with a spellbook containing Read Magic, 2 random spells, and 1 player-chosen spell. Can also use _Illusionist_ and _Necromancer_ Spells.
+      - _Thief_: Use a d6 hit die instead of a d4
   3. Note Ability Score Modifiers:
     - 18: +3
     - 16-17: +2
