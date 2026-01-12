@@ -23,7 +23,7 @@ The general rules for creating a character in OSE are found on page 14 of the cl
       - _Magic-User_: Start with a spellbook containing Read Magic, 2 random spells, and 1 player-chosen spell. Can also use _Illusionist_ and _Necromancer_ Spells.
       - _Thief_: Use a d6 hit die instead of a d4
   4. Note damage and attack values:
-      - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your strength modifier. e.g. a cleric with 13 strength deals 1d6 + 1 damage and has a +1 to hit. 
+      - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your stregnth modifier. e.g. a cleric with 13 strength deals 1d6 + 1 damage and has a +1 to hit. 
       - For ranged attacks, you deal damage equal to your classes hit die. For to-hit rolls, you get a bonus equal to your dexterity modifier. e.g. a fighter with a 13 dexterity deals 1d8 damage and has a +1 to hit.
   5. Note Saving Throws, looking at the chart for a 1st level character of your chosen class. (D, W, P, B, S)
   6. Write down your max HP. At first level, this is the average value (rounded up) and modified by your consitution modifier. (d4 = 3, d6 = 4, d8 = 5)
