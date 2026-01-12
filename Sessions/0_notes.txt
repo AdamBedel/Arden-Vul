@@ -3,6 +3,10 @@ Jack - Larry Berrymasher - level 1 halfling
 Nico - Ogdo Bogdo - level 1 Khumus magic-user
 Dan - TBD - level 1 Khumus cleric of Thelis (love, desire, aspiration, planning)
 
+---------------------------------
+-------------RUMORS--------------
+---------------------------------
+
 Jacob - 
 
 7. Some talk about a chasm within the mountain, and claim it's a safe way to travel through the levels. This is a lie, as the
@@ -46,8 +50,9 @@ Bonus Rumors from Rodger the Rapier, an adventurer in Gosterwick:
   - An inn was built just outside the ruined city (on the northern side) in the past few months. Tell Kronos that Rodger sent you!
   - There are probably dozens of entrances to the halls below scattered throughout the ruins, but the most easily accessible entrance is through the great pyramid of Thoth.
 
-
-Research:
+---------------------------------
+------------RESEARCH-------------
+---------------------------------
 
 The Pyramid of Thoth
 
@@ -97,9 +102,48 @@ precincts.
 
 The Great Chasm : nothing
 
-
 The Ziggurat : nothing
 
+---------------------------------
+--------------LORE---------------
+---------------------------------
 
+The Archontean Empire
 
+The main ruling faction of the world. Very ancient, but began to expand and dominate the world starting in 0 AEP. 
+The empire collapsed due to a large-scale civil war lasting from 1713 - 1793 AEP, but began to reexpand again starting 
+in 2450 AEP. The current year is 2993 AEP. The imperial people of the current day are not only humans, but also goblins
+and halflings.
+
+The Archontean Civil War
+
+This war was fought between the Sortians, who believed magic should be taught to anyone with sufficient talent, and the 
+Theosophs, who wanteed to preserve magic to only those associated with the temple of Thoth. The war nearly destroyed the 
+Archontean empire over 1200 years ago, and led to the nearly 500 years of dark ages that followed. The war began when the
+Sortian leader, Priscus Pulcher, was executed by his political rivals from the Cult of Thoth. 
+
+Gosterwick
+
+A new town, founded by Lady Alexia within the past decade. She is in a political feud with her older brother over
+who the proper ruler of this Exarchate (regional area) should be. The town was built to support adventurers and extract wealth from
+the nearby ruins of Arden Vul.
+
+Marius "Invictus" Tricotor
+
+The most famous Archon (regional govenor) of Arden Vul. He was said to have led the Archonteans in many great victories 
+during his reign around 1050 AEP. 
+
+Thorcins
+
+The native people of this land, they were conquered by the Archonteans during their re-expansion. Some actively resist
+the new rulers and laws imposed by the Archonteans. 
+
+Arden "The Defender"
+
+Mythical hero of Archontean history, was said to have discovered the cliff face that now houses the city Arden Vul 
+along with her compainion, Vul the Sorcerer. The most beloved of Archontean legends.
+
+Vul "The Sorcerer"
+
+In Archontean legend, was said to be the travelling companion of Arden.
 
