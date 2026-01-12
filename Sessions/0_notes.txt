@@ -131,7 +131,8 @@ the nearby ruins of Arden Vul.
 The Imperial Regalia
 
 Four famous items once wielded by the Archons of Arden Vul. The wielder of the regalia is said to be the proper ruler of
-the Arden Vul Exarchate, making them second in power to only the emperor himself. One of these items is called the Iron Circlet of Ghanor.
+the Arden Vul Exarchate, making them second in power to only the emperor himself. Unfortunately, all four were lost
+during the Archontean civil war. One of these items is known as the Iron Circlet of Ghanor.
 
 Marius "Invictus" Tricotor
 
@@ -151,5 +152,6 @@ along with her compainion, Vul the Sorcerer. The most beloved of Archontean lege
 Vul "The Sorcerer"
 
 In Archontean legend, was said to be the travelling companion of Arden.
+
 
 
