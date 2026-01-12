@@ -60,12 +60,13 @@ The general rules for creating a character in OSE are found on page 14 of the cl
 
 
 ## Other Rules
-  - Slot-Based Encumbrance as described in Carcass Crawler 2 (cc2.pdf) TLDR:
+  - Slot-Based Encumbrance as described in the "encumbrance" document. Here is a TLDR:
       - One-handed items, shields = 1 slot
       - Two-handed items, ranged weapons = 2 slots
-      - 3 torches, 3 oil flasks, or 3 rations = 1 slot
-      - Light/Med/Heavy Armor = 1/2/3 slots packed, or 1/2/2 slots equipped
+      - 3 torches, 3 oil flasks, 3 stakes, or 3 rations = 1 slot
+      - Leather armor = 1 slot
+      - Metal armor = 2 slots
       - Ammo pouches, quivers = 0 slots (already accounted for with ranged weapons)
   - Hiring Retainers: Retainers receiving less than a 1/2 share of treasure will not directly engage in combat. 
-  - Normal Humans: 2 + CON HP, and deal 1d2 + STR damage with weapons. -1 to hit with all weapons. Level up at 100 XP.
+  - Normal Humans: have 2 + CON HP, and deal 1d2 + STR damage with weapons. -1 to hit with all weapons. Level up at 100 XP.
   - Spell Scrolls: can be cast or scribed by an appropriate caster regardless of caster level. Scribing a spell to/from a spellbook or scroll takes 8 hours per book/scroll and requires an INT check for each spell. This can be attempted once per spell per level. Scribing from a scroll destroys it regardless of the outcome. Scribing to a scroll costs 100gp per spell level regardless of the outcome, and can only be attempted if it could be cast by the scriber.
