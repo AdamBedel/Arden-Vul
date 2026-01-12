@@ -23,8 +23,8 @@ The general rules for creating a character in OSE are found on page 14 of the cl
       - 4-5:   -2
       - 3:     -3
   5. Note damage and attack values:
-      - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your strength modifier.
-      - For ranged attacks, you deal damage equal to your classes hit die. For to-hit rolls, you get a bonus equal to your dexterity modifier.
+      - For melee attacks, you deal damage equal to your classes hit die + your stength modifier. For to-hit rolls, you get a bonus equal to your strength modifier. e.g. a cleric with 13 strength deals 1d6 + 1 damage and has a +1 to hit. 
+      - For ranged attacks, you deal damage equal to your classes hit die. For to-hit rolls, you get a bonus equal to your dexterity modifier. e.g. a fighter with a 13 dexterity deals 1d8 damage and has a +1 to hit.
   6. Note Saving Throws, looking at the chart for a 1st level character of your chosen class. (D, W, P, B, S)
   7.  Write down your max HP. At first level, this is the average value (rounded up) and modified by your consitution modifier. (d4 = 3, d6 = 4, d8 = 5)
   8. Choose an allignment. Lawful good, chaotic evil, etc. (This is unimportant for most people, except clerics who must always match their god's allignment)
