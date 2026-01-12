@@ -30,9 +30,9 @@ The general rules for creating a character in OSE are found on page 14 of the cl
   7. Choose an allignment. Lawful good, chaotic evil, etc. (This is unimportant for most people, except clerics who must always match their god's allignment)
   8. Write down your exploration skills. Unless your class says otherwise, Listen at Doors is a 1 and Open Doors is 2 + your strength modifier (minimum of 1).
   9. Note known languages:
-      - All characters know Archontean (aka "Common").
+      - All characters know Archontean (aka "Common")
       - Humans must choose a cultural background: Archontean, Thorcin, Wiskin, or Khumus
-      - Archontean humans, goblins, and halflings do not get any additional languages, every other class gets their 1 background language for free.
+      - Archontean humans, goblins, and halflings do not get any additional languages, every other class gets their 1 background language for free
       - You get additional languages based on your intelligence modifier. The languages you may choose are: Thorcin, Wiskin, Khumus, Goblin, Draconic, Mithric (ancient language of magic theory), elvish, and dwarvish.
   10. Roll or buy equipment.
       - To buy equipment, roll 3d6 x 10 starting gold and buy equipment, armor and weapons from this lists on pages 40-42.
