@@ -2,7 +2,26 @@ Rule Changes
  - Ranged Weapons
    - Attacking in melee or firing with an ally between you and the target adds a -2 to hit. 
  - Torches, oil flasks, wooden stakes, and rations are all one slot.
+ - Throwing knife bandolier only holds special throwing knives, which follow ranged weapon rules
 
 Do we want a "main quest"?
 
-Throwing knife bandolier only holds special throwing knives, which follow ranged weapon rules
+What happened during downtime:
+
+ - Kronos has warmed up to you guys, is now offering quests.
+  -- Quests come in two categories "hunt this monster" or "establish relationships with this faction"
+  -- Recognize most of his men, familiar with his wife Estelle and her clerical services.
+  -- Can continue to improve relations via carousing. 
+
+ - Two Adventuring parties came through spending some time at the Broken Head.
+  -- The Bad Neighbors, a very large group. Spent only one night and bought out all the rations before
+     heading back into the dungeon.
+  -- Dalton's Darlings, led by a bard named Dalton who Kronos seems to love.
+
+ - Dalton's Darlings recovered the bodies of Kronos's fallen men from the Tower of Scrutiny.
+  -- Kronos rewarded them with a private room, but since you guys were already renting out
+     the normal private room he kicked his cooks out of their room temporarily. They were not
+     happy about this
+  -- Kronos is rebolstering his forces. So far he has made one hire, a dwarf fighter named Ljot. 
+     The men seem to like her, and she is popular w/ everyone because she came with a large mastiff 
+     named Chisel. 
