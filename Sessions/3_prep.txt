@@ -4,3 +4,5 @@ Rule Changes
  - Torches, oil flasks, wooden stakes, and rations are all one slot.
 
 Do we want a "main quest"?
+
+Throwing knife bandolier only holds special throwing knives, which follow ranged weapon rules
