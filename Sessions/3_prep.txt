@@ -3,3 +3,4 @@ Rule Changes
    - Attacking in melee or firing with an ally between you and the target adds a -2 to hit. 
  - Torches, oil flasks, wooden stakes, and rations are all one slot.
 
+Do we want a "main quest"?
