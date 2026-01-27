@@ -1,0 +1,8 @@
+Combat Rules!!
+ - I want to be a bit stricted on these going forward. 
+ - Ranged Weapons
+   - Attacking in melee or firing with an ally between you and the target adds a -2 to hit. 
+   - Ranged weapons are 1 slot, ammo is another but can be packed. 
+     - Long bows the exception. 
+ - Shields
+   - 
