@@ -1,8 +1,8 @@
-# House Rules
-## Character Creation Rules
-
 [Broken Head Vendors](https://docs.google.com/spreadsheets/d/1mfQ5xFZ6Ao5o16WZgcGmfFkH8kVAOVxzxUkE-k-3RJg/edit?usp=sharing)
 
+[Group Notes](https://drive.google.com/drive/u/1/folders/1OrYqfhjm-af-IQUoMiJynjoI4EQnYdQD)
+
+# Character Creation Rules
 The general rules for creating a character in OSE are found on page 14 of the classic player's tome. The character sheet is "custom_character_sheet_v2.1"  To create a character, follow the following steps:
 
   1. Roll 3d6 for each ability score in order, no rearranging or adjusting.
