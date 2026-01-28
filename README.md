@@ -5,7 +5,7 @@
 [Discord Group](https://discord.gg/VC8H9urwse)
 
 # Character Creation Rules
-The general rules for creating a character in OSE are found on page 14 of the classic player's tome. The character sheet is "custom_character_sheet_v2.1"  To create a character, follow the following steps:
+The general rules for creating a character in OSE are found on page 14 of the classic player's tome. The character sheet is "custom_character_sheet_v2.1"  To create a character for this campaign, follow the following steps:
 
   1. Roll 3d6 for each ability score in order, no rearranging or adjusting.
   2. Note Ability Score Modifiers:
