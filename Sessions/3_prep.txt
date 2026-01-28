@@ -2,9 +2,10 @@ Dan's character is now a cleric.
 
 Rule Changes
  - Ranged Weapons
-   - Attacking in melee or firing with an ally between you and the target adds a -2 to hit. 
- - Torches, oil flasks, wooden stakes, and rations are all one slot.
- - Throwing knife bandolier only holds special throwing knives, which follow ranged weapon rules
+  -- Attacking in melee or firing with an ally between you and the target adds a -2 to hit. 
+  -- Throwing knife bandolier only holds special throwing knives, which follow ranged weapon rules
+ - Potions
+  -- Still must be equipped to use quickly in combat, but now take 1/3 of a slot
 
 Do we want a "main quest"?
 
