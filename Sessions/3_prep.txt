@@ -5,7 +5,7 @@ Three pillars, what interests you?
 Rule Changes
  - Ranged Weapons
   -- Attacking in melee or firing with an ally between you and the target adds a -2 to hit. 
-  -- Throwing knives are now 1/3 slot. The bandolier is an unencumbering item.
+  -- Throwing knives are now ranged weapons.
   -- Long Bows: 3 slots total, but advantage on all attacks
  - Potions
   -- Still must be equipped to use quickly in combat, but now take 1/3 of a slot
