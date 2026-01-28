@@ -1,5 +1,7 @@
 Dan's character is now a cleric. 
 
+Three pillars, what interests you?
+
 Rule Changes
  - Ranged Weapons
   -- Attacking in melee or firing with an ally between you and the target adds a -2 to hit. 
