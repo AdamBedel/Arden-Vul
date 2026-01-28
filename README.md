@@ -40,7 +40,7 @@ The general rules for creating a character in OSE are found on page 14 of the cl
       - Archontean humans, goblins, and halflings do not get any additional languages, every other class gets their 1 background language for free
       - You get additional languages based on your intelligence modifier. The languages you may choose are: Thorcin, Wiskin, Khumus, Goblin, Draconic, Mithric (ancient language of magic theory), elvish, and dwarvish.
   10. Roll or buy equipment.
-      - To buy equipment, roll 3d6 x 10 starting gold and buy equipment, armor and weapons from this lists on pages 40-42.
+      - To buy equipment, roll 3d6 x 10 starting gold and buy equipment, armor, and weapons from the lists on pages 40-42.
       - To roll equipment, follow the rules contained in the "roll_equipment" document.
         - Rename the armor gained in this way to follow ADND conventions:
           - Chainmail -> Lamellar
