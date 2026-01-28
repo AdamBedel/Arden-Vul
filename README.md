@@ -2,6 +2,8 @@
 
 [Group Notes](https://drive.google.com/drive/u/1/folders/1OrYqfhjm-af-IQUoMiJynjoI4EQnYdQD)
 
+[Discord Group](https://discord.gg/VC8H9urwse)
+
 # Character Creation Rules
 The general rules for creating a character in OSE are found on page 14 of the classic player's tome. The character sheet is "custom_character_sheet_v2.1"  To create a character, follow the following steps:
 
