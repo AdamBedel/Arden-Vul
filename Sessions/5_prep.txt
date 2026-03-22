@@ -1,8 +1,35 @@
 Beginning at 3pm on the 21st of Dekaios, just outside the eastern gate of Gosterwick.
 
-Death due to mysterious poison?
-Are there healing potions? Would someone be trying to sell them rn? (desire has probably gone down since now have Cleric lvl 2)
+Town has gaurds, knights of the Azure shield. flyers up reporting on mysterious death-by-poisoning and to be wary of any food given by strangers. Also plenty of feral cats and dogs out on the streets. 
+
+Bars and Inns
+- The Bailiff ’s Truncheon (barfights), The Old Well (upper and middle-class, hookers), Kaelo's Bathhouse (hookers, gross), The Muddy Puddle (and The Stunned Acolyte (super nice, rooms for rent), The Yellow Cloak (eclectic, rooms for rent). 
+
+Thieves Guild
+- Middle unit of triplex by the docks, Shirley is working the front desk. There are 8 6-inch diameter cut-out holes in the wall on the right-hand side, which all seem to lead into another (much darker) room. 
+- There are seven brothers in town (a brother is actual an entire team of thieves), each brother is led by a big-brother (i.e. Anders or Reesa), and Wicktrimmer is the elder. 
+
+House of the Gods
+- Attended to by "Priests of the Many" from Temple of Mitra. e.g. Gesteon Probus
+- A well-ornamened shrine with a lockbox (and parchment containing list of offerings) is Dan's god (worshipers tend to leave valuables, so they have problems with thieves here).
+
+Moneychanger
+- Jerimias (halfling) works with the Chairdusters (an archontean couple) to bid on gold and silver, which are melted down or resold as fit. Jerimias deals in gems and currency. The chairdusters pay 50gp / month to the brotherhood for protection.
+- Exchange rates: 5% on the first 1000 gp, 1% after that. 90% value for metal gold / silver. No interest in statuary. 
+
+Blacksmith
+- Torunn the Smith is a Wiskin woman on the south side of town who works an army of apprentices. Best smith in town. Can produce any mundane weapon or armor, as well as reshape and repurpose rare ingredients (mythral, adamantium, etc). Use Osric for prices.
+
+Banks
+- Rarities Factor: .75% of value per month, 15 gp per letter, 18% value for caravan services. 
+- Silent Factor: Very cool vibe, 1.25% per month (but over 10,000gp drops to .75% per month), 25 gp per letter, 20% value for caravan services.
+- Prosperity Factor: Richest, 1% of the value per month (but over 20,000gp frops to .5% per month), 20 gp per letter, 20% value for caravan services. 
+
+Shops
+- Central Market (1d4 - 1 500 gp healing potions, 1d4 lovers tokens, 
+
 How much is armor?
-Rarities Factor
-Armorer
-Arcane Practioner's Guild
+
+Other Info
+- Eusebia Phocas, the Thesmoethete, can enlist people into Lady Alexia's employ and provide 350gp healing potions
+- Book shop and Arcane Practitioners Guild
