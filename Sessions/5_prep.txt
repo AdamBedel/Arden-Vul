@@ -11,7 +11,8 @@ Thieves Guild
 
 House of the Gods
 - Attended to by "Priests of the Many" from Temple of Mitra. e.g. Gesteon Probus
-- A well-ornamened shrine with a lockbox (and parchment containing list of offerings) is Dan's god (worshipers tend to leave valuables, so they have problems with thieves here).
+- A well-ornamened (although desecrated) shrine with a lockbox to Thelis (worshipers tend to leave valuables, so they have problems with thieves here).
+- Dan can feel that this is a slight against Thelis, and should ammends be made, he will be greatly rewarded. 
 
 Moneychanger
 - Jerimias (halfling) works with the Chairdusters (an archontean couple) to bid on gold and silver, which are melted down or resold as fit. Jerimias deals in gems and currency. The chairdusters pay 50gp / month to the brotherhood for protection.
@@ -25,10 +26,15 @@ Banks
 - Silent Factor: Very cool vibe, 1.25% per month (but over 10,000gp drops to .75% per month), 25 gp per letter, 20% value for caravan services.
 - Prosperity Factor: Richest, 1% of the value per month (but over 20,000gp frops to .5% per month), 20 gp per letter, 20% value for caravan services. 
 
-Shops
-- Central Market (1d4 - 1 500 gp healing potions, 1d4 lovers tokens, 
+Recruitment:
+- Can be advertised at most bars, or hung up in the central marketplace by paying the fee to the House of Coins. House of Coins can provide paper as well (also for a fee). 
+
+Shops / Bulletins
+- Central Market (1d4 - 1 500 gp healing potions, 1d4 lovers tokens, etc.)
+- Bulletin Board (The Thesmothete warning of not trusting food from strangers, advertisments for the rarities factor, Torunn seaking apprentices, Arcane Practitioners Club Ad, LABEL: Advertisements without the fee paid to the hosue of coins will be removed and owners fined)
 
 How much is armor?
+Figure out hireling recruitment
 
 Other Info
 - Eusebia Phocas, the Thesmoethete, can enlist people into Lady Alexia's employ and provide 350gp healing potions
