@@ -3,7 +3,7 @@ Beginning at 3pm on the 21st of Dekaios, just outside the eastern gate of Goster
 Town has gaurds, knights of the Azure shield. flyers up reporting on mysterious death-by-poisoning and to be wary of any food given by strangers. Also plenty of feral cats and dogs out on the streets. 
 
 Bars and Inns
-- The Bailiff ’s Truncheon (barfights), The Old Well (upper and middle-class, hookers), Kaelo's Bathhouse (hookers, gross), The Muddy Puddle (and The Stunned Acolyte (super nice, rooms for rent), The Yellow Cloak (eclectic, rooms for rent). 
+- The Bailiff ’s Truncheon (barfights), The Old Well (upper and middle-class, hookers), Kaelo's Bathhouse (hookers, gross), The Muddy Puddle, The Stunned Acolyte (super nice, rooms for rent), The Yellow Cloak (eclectic, rooms for rent). 
 
 Thieves Guild
 - Middle unit of triplex by the docks, Shirley is working the front desk. There are 8 6-inch diameter cut-out holes in the wall on the right-hand side, which all seem to lead into another (much darker) room. 
@@ -25,6 +25,16 @@ Moneychanger
 
 Blacksmith
 - Torunn the Smith is a Wiskin woman on the south side of town who works an army of apprentices. Best smith in town. Can produce any mundane weapon or armor, as well as reshape and repurpose rare ingredients (mythral, adamantium, etc). Use Osric for prices.
+Armor Prices: 
+leather - 20
+st leather - 200
+lamellar - 40
+chainmail - 400
+splint - 80
+field plate - priceless (Torunn owns a set)
+
+Weapons:
+
 
 Banks
 - Rarities Factor: .75% of value per month, 15 gp per letter, 18% value for caravan services. 
@@ -35,12 +45,16 @@ Recruitment:
 - Can be advertised at most bars, or hung up in the central marketplace by paying the fee to the House of Coins. House of Coins can provide paper as well (also for a fee). 
 
 Shops / Bulletins
-- Central Market (1d4 - 1 500 gp healing potions, 1d4 lovers tokens, etc.)
+- Central Market (1d4 - 1 healing potions, 2d4 lovers tokens, bolts of fire, elven rope, etc.)
 - Bulletin Board (The Thesmothete warning of not trusting food from strangers, advertisments for the rarities factor, Torunn seaking apprentices, Arcane Practitioners Club Ad, LABEL: Advertisements without the fee paid to the hosue of coins will be removed and owners fined)
 
-How much is armor?
-Figure out hireling recruitment
+Recruitment:
+- 4 places around town allow recruitment (Baliff's Truncheon, the Old Well, the Muddy Puddle, and the Yellow Cloak Inn), which have seperate reputation tracking.
+- Each of the inns is more likely to produce 1 archetype of adventurer than the others. 
+- Must spend 50gp and a night at the bar meeting people and buying drinks. This will result in meeting 1d4 unclassed people and 1 adventurer. 
+- Alternatively, can advertise on the town bulletin board. Fee is 100gp, and this will result in 2d4 unclassed people and 1d4 adventurers one day later. Reputation effects all of Gosterwick. 
 
 Other Info
 - Eusebia Phocas, the Thesmoethete, can enlist people into Lady Alexia's employ and provide 350gp healing potions
 - Book shop and Arcane Practitioners Guild
+- Grain Hall (with dog breeder Priscilla Canis)
