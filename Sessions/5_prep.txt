@@ -17,6 +17,11 @@ House of the Gods
 Moneychanger
 - Jerimias (halfling) works with the Chairdusters (an archontean couple) to bid on gold and silver, which are melted down or resold as fit. Jerimias deals in gems and currency. The chairdusters pay 50gp / month to the brotherhood for protection.
 - Exchange rates: 5% on the first 1000 gp, 1% after that. 90% value for metal gold / silver. No interest in statuary. 
+- If they sell 850 gp of silver / gold goods, that is 765 gp
+- If they exchange 950 gp of rubies (all 19), that is 902.5 gp.
+- If they exchange 552 silver, that is 52.44 gp. 
+- If they do both (total value 1005.2 gp) that is a 50 gp for first 1000 gp, 5 copper for next 5 gp. Total = 1004.65
+- if they do all of the above, the gold, rubies, and silver become 1769.65 gp
 
 Blacksmith
 - Torunn the Smith is a Wiskin woman on the south side of town who works an army of apprentices. Best smith in town. Can produce any mundane weapon or armor, as well as reshape and repurpose rare ingredients (mythral, adamantium, etc). Use Osric for prices.
