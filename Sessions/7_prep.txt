@@ -11,7 +11,9 @@ humanoid figures attack you and you fight them off with your spear, until the fi
 you impale the snake, and it evaporates away as yu find yourself back in the temple of Heschius-Bahn, his piercing eyes staring deep into you. 
 
 Need to pay hirelings! 1gp each for the day of work, plus their shares (125gp each).
-Spells for Mad Dog: Magic Missile, Read Magic, Decay (rots a corpse or deals 2d6 damage to an undead creature w/ flesh in melee), and Detect Illusion (3 turns of seeing through illusions / invisibility)
+
+Spells for Mad Dog: Magic Missile, Read Magic, Decay (rots a corpse or deals 2d6 damage to an undead creature w/ flesh in melee),
+and Detect Illusion (3 turns of seeing through illusions / invisibility within 10')
 
 PLAN:
 Explore the pyramid
