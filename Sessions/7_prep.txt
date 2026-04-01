@@ -36,7 +36,7 @@ Pyramid Entrance, stairs, first room, some side rooms
 Thieves Guild Sidequest: 
 The local silversmiths, the Chairdusters, pay a tithe to the guild for protection. A rival silversmith from Newmarket, Kendrik the Chaser, is beginning to establish a
 foothold in Gosterwick. He transports the inventory he buys in Gosterwick back to Newmarket via strongbox in a rarities factor caravan. The job is to steal the
-strongbox (or its contents) before it arrives in Newmarket, which Reesa will ransom back to Kendrik. Your job is to open the strongbox, which will give us a
+strongbox (or its contents) before it arrives in Newmarket, which Reesa will ransom back to Kendrik. If the strongbox can be opened, it will give us a
 better idea on how much the ransom is worth. The guild and Reesa will take half the value, while the hit-team gets the other half. You can assemble your own
 hit-team, or use as many guild-thieves as needed. You can delay or even strand the caravan, but don't kill any of the Rarities Factor guards. Reesa will be
 accompaning you on horseback, and will continue with the take to New Market afterwards. Horses can be sourced by the guild if needed. 
