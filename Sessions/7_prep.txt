@@ -15,6 +15,12 @@ Need to pay hirelings! 1gp each for the day of work, plus their shares (125gp ea
 Spells for Mad Dog: Magic Missile, Read Magic, Decay (rots a corpse or deals 2d6 damage to an undead creature w/ flesh in melee),
 and Detect Illusion (3 turns of seeing through illusions / invisibility within 10')
 
+DISTANCES:
+- Gosterwick is 9 miles from the Long Stair. At 120' = 4.5 hours, at 90' = 6 hours, at 60' = 9 hours.
+- Newmarket is 72 miles from Gosterwick. At 240' = 1.5 days, at 120' = 3 days, at 90' = 4 days, at 60' = 6 days. (ie Belle Isle and back)
+- Narsilleon is 432 miles from Gosterwick. At 240' = 9 days, at 120' = 18 days, at 90' = 24 days, at 60' = 36 days. (ie St. Louis)
+- The long stair adds an hour (either way, it is super slick). Crossing Arden Vul takes another hour if being careful. 
+
 PLAN:
 When the Dungeon Dawgs wake up on the 24th, there will be a few inches of snow on the ground
 Explore the pyramid
