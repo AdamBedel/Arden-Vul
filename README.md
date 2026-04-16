@@ -16,7 +16,7 @@ The general rules for creating a character in OSE are found on page 14 of the cl
       - _Assassin_: Use a d6 hit die instead of a d4
       - _Bard_: Start with Mythric as a language. Use the _Cleric_ spell list instead of the _Druid_ list.
       - _Cleric_: Must choose a god from the "Gods and People of Magae" document
-      - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps*. Increase constituion modifier by 1.
+      - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps*. Increase constitution modifier by 1.
       - _Elf_: Start with a spellbook containing Read Magic and 1 player-chosen spell. Lose *Detect Secret Doors*
       - _Fighter_: Gain additional *Fighter Talents* as described in the "fighter_talents" document
       - _Goblin_ : Use the _Gnome_ statblock, but use the _Illusionist_ and _Necromancer_ spell lists instead of the normal _Magic-User_ list. Start with a spellbook containing Read Magic and 1 player-chosen spell. Lose _Detect Construction Tricks_ and _Speak With Burrowing Mammals_.
