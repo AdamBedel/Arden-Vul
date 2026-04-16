@@ -14,7 +14,7 @@ The general rules for creating a character in OSE are found on page 14 of the cl
       - 3:     -3
   3. Choose a class from below and write down their class features, as they are listed in the handbook. Some are changed as described. There are no minimum required scores or "Prime Requisites".
       - _Assassin_: Use a d6 hit die instead of a d4
-      - _Bard_: Start with Mythric as a language. Use the _Cleric_ spell list instead of the _Druid_ list.
+      - _Bard_: Start with Mythric as a language. 
       - _Cleric_: Must choose a god from the "Gods and People of Magae" document
       - _Dwarf_: Lose *Detect Construction Tricks* and *Detect Room Traps*. Increase constitution modifier by 1.
       - _Elf_: Start with a spellbook containing Read Magic and 1 player-chosen spell. Lose *Detect Secret Doors*
