@@ -3,7 +3,23 @@ Session begins: 25th of Dekaios at the Broken Head. A few inches of snow are on 
 Bookkeeping: Pay the retainer (1gp + 3gp + 125gp debt). Pay for the beds + food from the previous night (private room is still taken). 
 
 Berrymasher: dream about the tower (men in red armor are building a wall around the tower, trapping Jerry inside. He feels cold and hungry.
+Possibilities: cave bear, thieves guild in Gosterwick (and recruitment), tower, toilet entrance, explore more of the area under the pyramid.
 
-Possibilities: cave bear, thieves guild in Gosterwick (and recruitment), toilet entrance, explore more of the area under the pyramid.
+---------
 
-Dalton: claims the bear is slain
+Plan:
+
+  1st. Bookkeeping: Pay the retainer (1gp + 3gp + 125gp debt). Pay for the beds + food from the previous night (private room is still taken). 
+  2nd. Berrymasher: Dream about the tower (men in red armor are building a wall around the tower, trapping Jerry inside. He feels cold and hungry.)
+  3rd. When you wake up, it is still dark. There is the loud sounds of yelling coming from the tavern below. 
+    - Klibo, the leader of the Bad Neighbors, has arrived with his very large adventuring party. He wants Kronos to prepare more iron rations for the
+      next day. Kronos tells them he can't depart with that much food ("two weeks of iron rations for thirteen people?! That's impossible, 
+      there would be no food left in the inn"). 
+    - Noises in the hallway. A few of Kronos' men grab weapons and head downstairs. Outside, a dog starts barking. Dalton is listening with his head 
+      out from his private room, looking like he hasn't made up his mind on whether to help. 
+    - The merchant (formerly known as Smerchette) is moving in and out of the inn, dropping off lantern oil and torches to a few members of the group.
+    - If the party does not intervene, Klibo will hit the caravan in the night for supplies and leave before sunrise. 
+    - Klibo wants to avoid combat, but he desperately wants supplies for going back in the dungeon. He is willing to lie, cheat, and steal to get them. 
+    - If the caravan is hit, this will affect the Halflings, who get their food from Kronos. 
+
+TODO: Prep the tower, the cave bear encounter (potentially with Dalton), and the toilet.
