@@ -23,3 +23,9 @@ Plan:
     - If the caravan is hit, this will affect the Halflings, who get their food from Kronos. 
 
 TODO: Prep the tower, the cave bear encounter (potentially with Dalton), and the toilet.
+
+
+Cave Bear: The cave is set into a low hill in a clearing in the forest, and its opening is shrouded by vines during summer. The smell of a large
+carnivore lingers at the cave mouth. Inside is a carpet of crunched and mangled bones.
+
+HD: 7 (avg. 32), 1d8 + 1d8 + 2d6 (conditional 2d8), AC 14 M 120', morale 9
