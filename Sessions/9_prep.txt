@@ -17,8 +17,9 @@ Plan:
       there would be no food left in the inn"). 
     - Noises in the hallway. A few of Kronos' men grab weapons and head downstairs. Outside, a dog starts barking. Dalton is listening with his head 
       out from his private room, looking like he hasn't made up his mind on whether to help. 
-    - The merchant (formerly known as Smerchette) is moving in and out of the inn, dropping off lantern oil and torches to a few members of the group.
-    - If the party does not intervene, Klibo will hit the caravan in the night for supplies and leave before sunrise. 
+    - The merchant Marcella (formerly known as Smerchette) is moving in and out of the inn, dropping off lantern oil and torches to a few members of the group.
+    - Klibo's group says "I guess we're not welcome here. Come on lads." and they leave
+      - If the party does not intervene, Klibo will hit the caravan in the night for supplies and leave before sunrise. 
     - Klibo wants to avoid combat, but he desperately wants supplies for going back in the dungeon. He is willing to lie, cheat, and steal to get them. 
     - If the caravan is hit, this will affect the Halflings, who get their food from Kronos. 
 
