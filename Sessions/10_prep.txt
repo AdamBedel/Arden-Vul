@@ -2,6 +2,7 @@
 
 Amadec, Priscian war mage (see new monsters) and member
 of Secundus, as a 4th-level female human magic user.
+  - spells: dancing lights, jump, shield; forget, levitate
   - Carries a wand of light and a potion of extra healing, along with a +2 gladius and priscian chainmail.
   - 15 AC, 18 HP. attacks as 4th level thief (+2 to hit bc magic, +2 to damage)
 
@@ -15,6 +16,7 @@ female Archontean fighter
   - splint mail +1 and shield; battle axe +1, light crossbow, 83 sp and 37 gp.
   - 17 AC [18 w/ shield], 33HP. 1d12 + 4 [+6 th, possible advantage] (battle axe, or Pelagor's dagger + shield), 1d12 [+2 th] (crossbow) 
 
+who died: Malachi, member of Tertius and Laegel the Forsworn, member of Nonus.
 
 What they can tell you:
 
