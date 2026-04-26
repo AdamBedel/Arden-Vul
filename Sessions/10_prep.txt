@@ -2,17 +2,18 @@
 
 Amadec, Priscian war mage (see new monsters) and member
 of Secundus, as a 4th-level female human magic user.
-  - Carries a wand of light and a potion of extra healing
+  - Carries a wand of light and a potion of extra healing, along with a +2 gladius and priscian chainmail.
+  - 15 AC, 18 HP. attacks as 4th level thief (+2 to hit bc magic, +2 to damage)
 
 Pelagor, Priscian conversus (see new monsters) and bonded
 defender to Laegel, as an 8th-level Archontean thief
   - leather armor +2, dagger +1, short sword +3, sling and 10 sling bullets; a pouch with 15 sardonyx gems (50 gp each) and 73 gp; boots of elvenkind, a potion of invisibility
+  - 15 AC, 36 HP. 1d8 + 3 [+3 th] (short sword), 1d8 [+2 th] (sling). His boots make him move completely silently.
 
 Eroica, Priscian conversus (see new monsters), as a 5th-level
 female Archontean fighter
-- splint mail +1 and shield; battle axe +1, light crossbow, 83 sp and 37 gp.
-
-Both spellcasters carry a +2 priscian gladius and on orangish chainmail (including the spellcasters).
+  - splint mail +1 and shield; battle axe +1, light crossbow, 83 sp and 37 gp.
+  - 17 AC [18 w/ shield], 33HP. 1d12 + 4 [+6 th, possible advantage] (battle axe, or Pelagor's dagger + shield), 1d12 [+2 th] (crossbow) 
 
 
 What they can tell you:
