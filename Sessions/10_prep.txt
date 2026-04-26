@@ -2,7 +2,7 @@
 
 Amadec, Priscian war mage (see new monsters) and member
 of Secundus, as a 4th-level female human magic user.
-  - spells: dancing lights, jump, shield; forget, levitate
+  - spells: dancing lights, jump, shield; forget
   - Carries a wand of light and a potion of extra healing, along with a +2 gladius and priscian chainmail.
   - 15 AC, 18 HP. attacks as 4th level thief (+2 to hit bc magic, +2 to damage)
 
