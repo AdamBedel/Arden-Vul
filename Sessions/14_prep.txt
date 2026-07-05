@@ -1,0 +1,40 @@
+TODO:
+Calculate XP
+
+
+  - Rumors: 
+    - Players can "Cash in" rumors at any point. You get one chance, if you're wrong you don't get the XP. You just have to
+    tell me whether the rumor is true/false, and which parts are true/false. 
+
+  - Backstory on Julien Grex:
+    - Warning: This history is conflicting. Some records disagree, but here is what I can discern of the timeline:
+    - Long before the civil war. 
+    - Either the 2nd or the 10th archon of Arden Vul, but he was certainly the 2nd "great" archon. (He viewed himself
+    as the 2nd).
+    - served as Archon for 20 years from AEP 986 to 1006. Known as the great explorer Archon, he laid the
+    foundation for Cassandra Rubea, the expansionist, and Marius Trictor (called "Invictus") the great 
+    conquerer. 
+    - There are a few surviving personal accounts. He wrote of encountering the trolls and his attempts to
+    break through the Obsidian Gates. Many priests of Thoth died trying to obtain the knowledge locked behind
+    those doors.
+    - He also speaks of a group, the Harmonious Brotherhood, who served as advisors to all the people within
+    Arden Vul at the time. He hated them and their consul ("Sir Cinna"), seeing them as deeply power-hungry and corrupt. 
+    - There is likely more of Julien Grex's journals out their in Arden Vul. 
+
+- assassin:
+  Revet Feidelson, son is Boba Feidelson. 
+  - "Momm, people are here"
+  - "I'm just a simple woman trying to make my way in the universe"
+  - "Boba, rood eht so-heeck"
+
+  Beyond the reference, she is not associated with the Vengence Factor, but her late hustband was. She has
+  taken up his line of work. She currently buys mortality from a halfling man by the name of Merryweather 
+  Goodbarrel, who comes into town roughly every week. She meets him here. Because of the availability of Mortality,
+  other people have taken up the assassining and her work is actually slowing down. 
+
+Mortality:
+  - unique poison. Works by injestion OR on weapons. Relatively slow acting but fairly lethal. Each Vial
+  contains 3 doses. Deals 20 HP, save for half.
+
+Father Thiel: Thelis looks fondly upon you as you prepare your spells this morning. It feels as though she can
+feel your growing aspirations, and they are closely alligned with hers. Take an extra 1st level spell today.
