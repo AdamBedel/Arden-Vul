@@ -1,5 +1,5 @@
 TODO:
-Calculate XP, learn about lesser obsidian gates.
+Calculate XP.
 
 
   - Rumors: 
