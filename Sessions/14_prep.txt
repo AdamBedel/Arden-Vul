@@ -1,5 +1,6 @@
 TODO:
-Calculate XP.
+
+  - Mortality discrepency. (Also, each vial is an unknown number of doses.)
 
 
   - Rumors: 
